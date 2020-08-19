@@ -1,0 +1,3057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-08-19</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Jamaica</city>
+    <competition>Caribbean Premier League</competition>
+    <dates>
+      <date>2019-09-12</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>T20</match_type>
+    <outcome>
+      <winner>St Lucia Zouks</winner>
+      <by>
+        <wickets>5</wickets>
+      </by>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>RRS Cornwall</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Jamaica Tallawahs</team>
+      <team>St Lucia Zouks</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>St Lucia Zouks</winner>
+    </toss>
+    <umpires>
+      <umpire>N Duguid</umpire>
+      <umpire>GO Brathwaite</umpire>
+    </umpires>
+    <venue>Sabina Park, Kingston</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Jamaica Tallawahs</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <non_striker>CH Gayle</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <non_striker>CH Gayle</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <non_striker>CH Gayle</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CH Gayle</batsman>
+          <wickets>
+            <wicket>
+              <player_out>CH Gayle</player_out>
+              <fielders>
+                <fielder>ADS Fletcher</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CAK Walton</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>CAK Walton</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <non_striker>CAK Walton</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>CAK Walton</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <non_striker>CAK Walton</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>2</total>
+            <batsman>1</batsman>
+          </runs>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CAK Walton</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>CAK Walton</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>CAK Walton</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>CAK Walton</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <non_striker>CAK Walton</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>8</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CAK Walton</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <non_striker>CAK Walton</non_striker>
+          <bowler>Fawad Ahmed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <non_striker>CAK Walton</non_striker>
+          <bowler>Fawad Ahmed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>Fawad Ahmed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CAK Walton</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>Fawad Ahmed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CAK Walton</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>Fawad Ahmed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>CAK Walton</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <non_striker>CAK Walton</non_striker>
+          <bowler>Fawad Ahmed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <batsman>CAK Walton</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <batsman>CAK Walton</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>CAK Walton</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CAK Walton</batsman>
+          <wickets>
+            <wicket>
+              <player_out>CAK Walton</player_out>
+              <fielders>
+                <fielder>JD Campbell</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Powell</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <non_striker>R Powell</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>7</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>R Powell</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>8</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Powell</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>9</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Powell</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <non_striker>R Powell</non_striker>
+          <bowler>Fawad Ahmed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>Fawad Ahmed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>R Powell</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>Fawad Ahmed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Powell</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <non_striker>R Powell</non_striker>
+          <bowler>Fawad Ahmed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <non_striker>R Powell</non_striker>
+          <bowler>Fawad Ahmed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <non_striker>R Powell</non_striker>
+          <bowler>Fawad Ahmed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <non_striker>R Powell</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <non_striker>R Powell</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>R Powell</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Powell</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <non_striker>R Powell</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <non_striker>R Powell</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>GC Viljoen</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Powell</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <non_striker>R Powell</non_striker>
+          <bowler>GC Viljoen</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <non_striker>R Powell</non_striker>
+          <bowler>GC Viljoen</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <non_striker>R Powell</non_striker>
+          <bowler>GC Viljoen</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <non_striker>R Powell</non_striker>
+          <bowler>GC Viljoen</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <non_striker>R Powell</non_striker>
+          <bowler>GC Viljoen</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <non_striker>R Powell</non_striker>
+          <bowler>C de Grandhomme</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>C de Grandhomme</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>R Powell</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>C de Grandhomme</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Powell</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <non_striker>R Powell</non_striker>
+          <bowler>C de Grandhomme</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <non_striker>R Powell</non_striker>
+          <bowler>C de Grandhomme</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>C de Grandhomme</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Powell</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>RRS Cornwall</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>R Powell</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>RRS Cornwall</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Powell</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>RRS Cornwall</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>R Powell</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>RRS Cornwall</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>R Powell</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>RRS Cornwall</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>R Powell</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>RRS Cornwall</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Powell</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>7</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>RRS Cornwall</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Powell</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <non_striker>R Powell</non_striker>
+          <bowler>GC Viljoen</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>GC Viljoen</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Powell</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <non_striker>R Powell</non_striker>
+          <bowler>GC Viljoen</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <non_striker>R Powell</non_striker>
+          <bowler>GC Viljoen</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>GC Viljoen</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Powell</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <non_striker>R Powell</non_striker>
+          <bowler>GC Viljoen</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>Fawad Ahmed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Powell</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>Fawad Ahmed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>R Powell</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>Fawad Ahmed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Powell</batsman>
+          <wickets>
+            <wicket>
+              <player_out>R Powell</player_out>
+              <fielders>
+                <fielder>C de Grandhomme</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>Fawad Ahmed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>GH Worker</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>Fawad Ahmed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>GH Worker</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>Fawad Ahmed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>GH Worker</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>GH Worker</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>GH Worker</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <non_striker>GH Worker</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <non_striker>GH Worker</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <non_striker>GH Worker</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>2</total>
+            <batsman>1</batsman>
+          </runs>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>GH Worker</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>7</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>GH Worker</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>8</ball>
+          <non_striker>GH Worker</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>Fawad Ahmed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>GH Worker</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <non_striker>GD Phillips</non_striker>
+          <bowler>Fawad Ahmed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>GH Worker</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <non_striker>GH Worker</non_striker>
+          <bowler>Fawad Ahmed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <non_striker>GH Worker</non_striker>
+          <bowler>Fawad Ahmed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>GD Phillips</batsman>
+          <wickets>
+            <wicket>
+              <player_out>GD Phillips</player_out>
+              <fielders>
+                <fielder>C de Grandhomme</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <non_striker>AD Russell</non_striker>
+          <bowler>Fawad Ahmed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>GH Worker</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <non_striker>GH Worker</non_striker>
+          <bowler>Fawad Ahmed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AD Russell</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <non_striker>AD Russell</non_striker>
+          <bowler>GC Viljoen</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>GH Worker</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <non_striker>AD Russell</non_striker>
+          <bowler>GC Viljoen</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>GH Worker</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <non_striker>AD Russell</non_striker>
+          <bowler>GC Viljoen</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>GH Worker</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <non_striker>GH Worker</non_striker>
+          <bowler>GC Viljoen</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AD Russell</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <non_striker>GH Worker</non_striker>
+          <bowler>GC Viljoen</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AD Russell</batsman>
+          <wickets>
+            <wicket>
+              <player_out>AD Russell</player_out>
+              <kind>retired hurt</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <non_striker>GH Worker</non_striker>
+          <bowler>GC Viljoen</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SK Springer</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <non_striker>GH Worker</non_striker>
+          <bowler>NLTC Perera</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SK Springer</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <non_striker>SK Springer</non_striker>
+          <bowler>NLTC Perera</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>GH Worker</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <non_striker>SK Springer</non_striker>
+          <bowler>NLTC Perera</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>GH Worker</batsman>
+          <wickets>
+            <wicket>
+              <player_out>GH Worker</player_out>
+              <kind>bowled</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <non_striker>SK Springer</non_striker>
+          <bowler>NLTC Perera</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>DC Green</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <non_striker>DC Green</non_striker>
+          <bowler>NLTC Perera</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SK Springer</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <non_striker>SK Springer</non_striker>
+          <bowler>NLTC Perera</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DC Green</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <non_striker>DC Green</non_striker>
+          <bowler>C de Grandhomme</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SK Springer</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <non_striker>DC Green</non_striker>
+          <bowler>C de Grandhomme</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SK Springer</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <non_striker>DC Green</non_striker>
+          <bowler>C de Grandhomme</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>SK Springer</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <non_striker>DC Green</non_striker>
+          <bowler>C de Grandhomme</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SK Springer</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <non_striker>DC Green</non_striker>
+          <bowler>C de Grandhomme</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>SK Springer</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <non_striker>DC Green</non_striker>
+          <bowler>C de Grandhomme</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SK Springer</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>7</ball>
+          <non_striker>SK Springer</non_striker>
+          <bowler>C de Grandhomme</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>DC Green</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <non_striker>SK Springer</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>DC Green</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <non_striker>DC Green</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SK Springer</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <non_striker>SK Springer</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DC Green</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <non_striker>SK Springer</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DC Green</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <non_striker>SK Springer</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>DC Green</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <non_striker>DC Green</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SK Springer</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <non_striker>SK Springer</non_striker>
+          <bowler>GC Viljoen</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>DC Green</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <non_striker>DC Green</non_striker>
+          <bowler>GC Viljoen</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SK Springer</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <non_striker>DC Green</non_striker>
+          <bowler>GC Viljoen</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>SK Springer</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <non_striker>DC Green</non_striker>
+          <bowler>GC Viljoen</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SK Springer</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <non_striker>DC Green</non_striker>
+          <bowler>GC Viljoen</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SK Springer</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <non_striker>SK Springer</non_striker>
+          <bowler>GC Viljoen</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>DC Green</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <non_striker>SK Springer</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>DC Green</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <non_striker>SK Springer</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DC Green</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <non_striker>SK Springer</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DC Green</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <non_striker>SK Springer</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <batsman>DC Green</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <non_striker>SK Springer</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>DC Green</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <non_striker>SK Springer</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DC Green</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>7</ball>
+          <non_striker>SK Springer</non_striker>
+          <bowler>OC McCoy</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DC Green</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <non_striker>DC Green</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SK Springer</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <non_striker>SK Springer</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DC Green</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <non_striker>SK Springer</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>DC Green</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <non_striker>SK Springer</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>DC Green</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <non_striker>DC Green</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>2</total>
+            <batsman>1</batsman>
+          </runs>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <batsman>SK Springer</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <non_striker>SK Springer</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DC Green</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>7</ball>
+          <non_striker>SK Springer</non_striker>
+          <bowler>KOK Williams</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <batsman>DC Green</batsman>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>St Lucia Zouks</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <non_striker>RRS Cornwall</non_striker>
+          <bowler>JE Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <non_striker>RRS Cornwall</non_striker>
+          <bowler>JE Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <non_striker>RRS Cornwall</non_striker>
+          <bowler>JE Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>JE Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>JE Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>JE Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <non_striker>RRS Cornwall</non_striker>
+          <bowler>O Thomas</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <non_striker>RRS Cornwall</non_striker>
+          <bowler>O Thomas</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <non_striker>RRS Cornwall</non_striker>
+          <bowler>O Thomas</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>O Thomas</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>O Thomas</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>O Thomas</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <non_striker>RRS Cornwall</non_striker>
+          <bowler>JE Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <non_striker>RRS Cornwall</non_striker>
+          <bowler>JE Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>JE Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>JE Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>JE Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>JE Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <non_striker>RRS Cornwall</non_striker>
+          <bowler>DC Green</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <non_striker>RRS Cornwall</non_striker>
+          <bowler>DC Green</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>DC Green</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>DC Green</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>DC Green</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>DC Green</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <non_striker>RRS Cornwall</non_striker>
+          <bowler>O Thomas</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>O Thomas</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>O Thomas</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <non_striker>RRS Cornwall</non_striker>
+          <bowler>O Thomas</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <non_striker>RRS Cornwall</non_striker>
+          <bowler>O Thomas</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <non_striker>RRS Cornwall</non_striker>
+          <bowler>O Thomas</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>GH Worker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>GH Worker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>GH Worker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <non_striker>RRS Cornwall</non_striker>
+          <bowler>GH Worker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>GH Worker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <non_striker>RRS Cornwall</non_striker>
+          <bowler>GH Worker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>DC Green</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>DC Green</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>DC Green</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>DC Green</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>DC Green</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <non_striker>RRS Cornwall</non_striker>
+          <bowler>DC Green</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <non_striker>RRS Cornwall</non_striker>
+          <bowler>GH Worker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <non_striker>RRS Cornwall</non_striker>
+          <bowler>GH Worker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>GH Worker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <non_striker>RRS Cornwall</non_striker>
+          <bowler>GH Worker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <non_striker>RRS Cornwall</non_striker>
+          <bowler>GH Worker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>GH Worker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <non_striker>RRS Cornwall</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RRS Cornwall</batsman>
+          <wickets>
+            <wicket>
+              <player_out>RRS Cornwall</player_out>
+              <kind>bowled</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JD Campbell</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JD Campbell</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <non_striker>JD Campbell</non_striker>
+          <bowler>Ramaal Lewis</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>Ramaal Lewis</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JD Campbell</batsman>
+          <wickets>
+            <wicket>
+              <player_out>JD Campbell</player_out>
+              <kind>lbw</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>Ramaal Lewis</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>C de Grandhomme</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>Ramaal Lewis</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>C de Grandhomme</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>Ramaal Lewis</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>C de Grandhomme</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <non_striker>C de Grandhomme</non_striker>
+          <bowler>Ramaal Lewis</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>C de Grandhomme</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>C de Grandhomme</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>C de Grandhomme</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <non_striker>C de Grandhomme</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <non_striker>C de Grandhomme</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>C de Grandhomme</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>7</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>C de Grandhomme</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <non_striker>C de Grandhomme</non_striker>
+          <bowler>Ramaal Lewis</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <non_striker>C de Grandhomme</non_striker>
+          <bowler>Ramaal Lewis</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <non_striker>C de Grandhomme</non_striker>
+          <bowler>Ramaal Lewis</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>Ramaal Lewis</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>C de Grandhomme</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>Ramaal Lewis</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>C de Grandhomme</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>Ramaal Lewis</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>C de Grandhomme</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>7</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>Ramaal Lewis</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>C de Grandhomme</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>8</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>Ramaal Lewis</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>C de Grandhomme</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>C de Grandhomme</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <non_striker>C de Grandhomme</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>C de Grandhomme</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>C de Grandhomme</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>C de Grandhomme</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>C de Grandhomme</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>7</ball>
+          <non_striker>C de Grandhomme</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>O Thomas</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>C de Grandhomme</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>O Thomas</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>C de Grandhomme</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>O Thomas</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>C de Grandhomme</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>O Thomas</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>C de Grandhomme</batsman>
+          <wickets>
+            <wicket>
+              <player_out>C de Grandhomme</player_out>
+              <fielders>
+                <fielder>SK Springer</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <non_striker>DJG Sammy</non_striker>
+          <bowler>O Thomas</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <non_striker>DJG Sammy</non_striker>
+          <bowler>O Thomas</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>DJG Sammy</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <non_striker>DJG Sammy</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>DJG Sammy</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <non_striker>DJG Sammy</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>DJG Sammy</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <non_striker>DJG Sammy</non_striker>
+          <bowler>SK Springer</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>O Thomas</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>DJG Sammy</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>O Thomas</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DJG Sammy</batsman>
+          <wickets>
+            <wicket>
+              <player_out>DJG Sammy</player_out>
+              <fielders>
+                <fielder>CAK Walton</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>O Thomas</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>RO Cato</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <non_striker>RO Cato</non_striker>
+          <bowler>O Thomas</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>O Thomas</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RO Cato</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>O Thomas</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RO Cato</batsman>
+          <wickets>
+            <wicket>
+              <player_out>RO Cato</player_out>
+              <fielders>
+                <fielder>GD Phillips</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <non_striker>NLTC Perera</non_striker>
+          <bowler>JE Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>ADS Fletcher</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>JE Taylor</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <batsman>NLTC Perera</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>JE Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NLTC Perera</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>JE Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>NLTC Perera</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>JE Taylor</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>5</total>
+            <batsman>4</batsman>
+          </runs>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <batsman>NLTC Perera</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <non_striker>ADS Fletcher</non_striker>
+          <bowler>JE Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>NLTC Perera</batsman>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>
