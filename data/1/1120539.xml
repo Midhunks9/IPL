@@ -1,0 +1,3296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-10-09</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Windhoek</city>
+    <dates>
+      <date>2017-09-16</date>
+    </dates>
+    <gender>female</gender>
+    <match_type>IT20</match_type>
+    <outcome>
+      <winner>Uganda</winner>
+      <by>
+        <wickets>3</wickets>
+      </by>
+    </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>G Candiru</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Zimbabwe</team>
+      <team>Uganda</team>
+    </teams>
+    <toss>
+      <decision>bat</decision>
+      <winner>Zimbabwe</winner>
+    </toss>
+    <umpires>
+      <umpire>Emmanuel Byiringiro</umpire>
+      <umpire>A Louw</umpire>
+    </umpires>
+    <venue>Affies Park</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Zimbabwe</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>M Mupachikwa</non_striker>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>M Mupachikwa</non_striker>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Mupachikwa</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <non_striker>M Mupachikwa</non_striker>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Mupachikwa</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <non_striker>M Mupachikwa</non_striker>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>M Mupachikwa</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>8</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Mupachikwa</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>R Musamali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Mupachikwa</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>R Musamali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Mupachikwa</batsman>
+          <wickets>
+            <wicket>
+              <player_out>M Mupachikwa</player_out>
+              <kind>lbw</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>R Musamali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>R Musamali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>R Musamali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>R Musamali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>R Musamali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>R Musamali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>R Musamali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>R Musamali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>R Musamali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>R Musamali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>C Aweko</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>C Aweko</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>C Aweko</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>C Aweko</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>C Aweko</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>C Aweko</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>R Musamali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>R Musamali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>R Musamali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>R Musamali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>R Musamali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>R Musamali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>C Aweko</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>C Aweko</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>C Aweko</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>C Aweko</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>C Aweko</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>C Aweko</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>7</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>C Aweko</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>R Musamali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>R Musamali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>R Musamali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>R Musamali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>R Musamali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>R Musamali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>C Aweko</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>C Aweko</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>C Aweko</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>C Aweko</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>C Aweko</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>C Aweko</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>S Nampiina</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>S Nampiina</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>S Nampiina</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>S Nampiina</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>S Nampiina</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>S Nampiina</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>C Aweko</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>C Aweko</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>C Aweko</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>C Aweko</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>C Aweko</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>C Aweko</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>S Nampiina</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>S Nampiina</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>S Nampiina</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <non_striker>A Ndiraya</non_striker>
+          <bowler>S Nampiina</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>S Nampiina</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>S Nampiina</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>G Candiru</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>A Ndiraya</batsman>
+          <wickets>
+            <wicket>
+              <player_out>A Ndiraya</player_out>
+              <kind>bowled</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>G Candiru</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>P Marange</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>G Candiru</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>P Marange</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>G Candiru</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>P Marange</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>G Candiru</bowler>
+          <runs>
+            <extras>2</extras>
+            <total>2</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>2</wides>
+          </extras>
+          <batsman>P Marange</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <non_striker>P Marange</non_striker>
+          <bowler>G Candiru</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>7</ball>
+          <non_striker>P Marange</non_striker>
+          <bowler>G Candiru</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <non_striker>P Marange</non_striker>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <non_striker>P Marange</non_striker>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <non_striker>P Marange</non_striker>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <non_striker>P Marange</non_striker>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <non_striker>P Marange</non_striker>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>P Marange</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>7</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>P Marange</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>G Candiru</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>P Marange</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>G Candiru</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>P Marange</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <non_striker>P Marange</non_striker>
+          <bowler>G Candiru</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <non_striker>CS Mugeri</non_striker>
+          <bowler>G Candiru</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>P Marange</batsman>
+          <wickets>
+            <wicket>
+              <player_out>P Marange</player_out>
+              <kind>caught and bowled</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <bowler>G Candiru</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>J Nkomo</non_striker>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <non_striker>J Nkomo</non_striker>
+          <bowler>G Candiru</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <non_striker>J Nkomo</non_striker>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <non_striker>J Nkomo</non_striker>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <non_striker>J Nkomo</non_striker>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CS Mugeri</batsman>
+          <wickets>
+            <wicket>
+              <player_out>CS Mugeri</player_out>
+              <kind>lbw</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <non_striker>J Nkomo</non_striker>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AC Mushangwe</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <non_striker>J Nkomo</non_striker>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AC Mushangwe</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <non_striker>J Nkomo</non_striker>
+          <bowler>C Namugenyi</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AC Mushangwe</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <non_striker>AC Mushangwe</non_striker>
+          <bowler>G Candiru</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>J Nkomo</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <non_striker>J Nkomo</non_striker>
+          <bowler>G Candiru</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>AC Mushangwe</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <non_striker>AC Mushangwe</non_striker>
+          <bowler>G Candiru</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Nkomo</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <non_striker>AC Mushangwe</non_striker>
+          <bowler>G Candiru</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>J Nkomo</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <non_striker>J Nkomo</non_striker>
+          <bowler>G Candiru</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>AC Mushangwe</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <non_striker>AC Mushangwe</non_striker>
+          <bowler>G Candiru</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Nkomo</batsman>
+          <wickets>
+            <wicket>
+              <player_out>J Nkomo</player_out>
+              <fielders>
+                <fielder>S Nampiina</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <bowler>F Najjumba</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>L Tshuma</non_striker>
+          <batsman>AC Mushangwe</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <bowler>F Najjumba</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <non_striker>L Tshuma</non_striker>
+          <batsman>AC Mushangwe</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <bowler>F Najjumba</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>L Tshuma</non_striker>
+          <batsman>AC Mushangwe</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <non_striker>AC Mushangwe</non_striker>
+          <bowler>F Najjumba</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>L Tshuma</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <non_striker>AC Mushangwe</non_striker>
+          <bowler>F Najjumba</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>L Tshuma</batsman>
+          <wickets>
+            <wicket>
+              <player_out>L Tshuma</player_out>
+              <kind>run out</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <bowler>F Najjumba</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>T Granger</non_striker>
+          <batsman>AC Mushangwe</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>7</ball>
+          <non_striker>T Granger</non_striker>
+          <bowler>F Najjumba</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AC Mushangwe</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <non_striker>AC Mushangwe</non_striker>
+          <bowler>G Candiru</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>T Granger</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <non_striker>T Granger</non_striker>
+          <bowler>G Candiru</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AC Mushangwe</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <non_striker>T Granger</non_striker>
+          <bowler>G Candiru</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AC Mushangwe</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <non_striker>T Granger</non_striker>
+          <bowler>G Candiru</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AC Mushangwe</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <non_striker>T Granger</non_striker>
+          <bowler>G Candiru</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>AC Mushangwe</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <non_striker>T Granger</non_striker>
+          <bowler>G Candiru</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>AC Mushangwe</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <non_striker>T Granger</non_striker>
+          <bowler>F Najjumba</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AC Mushangwe</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <non_striker>T Granger</non_striker>
+          <bowler>F Najjumba</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AC Mushangwe</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <non_striker>T Granger</non_striker>
+          <bowler>F Najjumba</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>AC Mushangwe</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <non_striker>T Granger</non_striker>
+          <bowler>F Najjumba</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>AC Mushangwe</batsman>
+          <wickets>
+            <wicket>
+              <player_out>AC Mushangwe</player_out>
+              <kind>run out</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <non_striker>T Granger</non_striker>
+          <bowler>F Najjumba</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>CT Dhururu</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <non_striker>CT Dhururu</non_striker>
+          <bowler>F Najjumba</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>T Granger</batsman>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Uganda</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>S Kemigisha</non_striker>
+          <batsman>M Nalule</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>S Kemigisha</non_striker>
+          <batsman>M Nalule</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>S Kemigisha</non_striker>
+          <batsman>M Nalule</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>S Kemigisha</non_striker>
+          <batsman>M Nalule</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Nalule</batsman>
+          <wickets>
+            <wicket>
+              <player_out>M Nalule</player_out>
+              <fielders>
+                <fielder>M Mupachikwa</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>R Ntono</non_striker>
+          <batsman>S Kemigisha</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <non_striker>R Ntono</non_striker>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Kemigisha</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>AC Mushangwe</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>R Ntono</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>AC Mushangwe</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ntono</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>AC Mushangwe</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ntono</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>AC Mushangwe</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Ntono</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <non_striker>R Ntono</non_striker>
+          <bowler>AC Mushangwe</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Kemigisha</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <non_striker>R Ntono</non_striker>
+          <bowler>AC Mushangwe</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Kemigisha</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>R Ntono</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ntono</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ntono</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>R Ntono</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ntono</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Ntono</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>7</ball>
+          <non_striker>R Ntono</non_striker>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Kemigisha</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>8</ball>
+          <non_striker>R Ntono</non_striker>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Kemigisha</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>AC Mushangwe</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>R Ntono</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>AC Mushangwe</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>R Ntono</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>AC Mushangwe</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>R Ntono</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>AC Mushangwe</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>R Ntono</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>AC Mushangwe</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Ntono</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <non_striker>R Ntono</non_striker>
+          <bowler>AC Mushangwe</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>S Kemigisha</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>7</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>AC Mushangwe</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Ntono</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>8</ball>
+          <non_striker>R Ntono</non_striker>
+          <bowler>AC Mushangwe</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>S Kemigisha</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>9</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>AC Mushangwe</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ntono</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <non_striker>R Ntono</non_striker>
+          <bowler>N Sibanda</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Kemigisha</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <non_striker>R Ntono</non_striker>
+          <bowler>N Sibanda</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Kemigisha</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <non_striker>R Ntono</non_striker>
+          <bowler>N Sibanda</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Kemigisha</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <non_striker>R Ntono</non_striker>
+          <bowler>N Sibanda</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Kemigisha</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <non_striker>R Ntono</non_striker>
+          <bowler>N Sibanda</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>S Kemigisha</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <non_striker>R Ntono</non_striker>
+          <bowler>N Sibanda</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Kemigisha</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <non_striker>R Ntono</non_striker>
+          <bowler>N Sibanda</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>S Kemigisha</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>P Marange</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ntono</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>P Marange</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>R Ntono</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>P Marange</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ntono</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>P Marange</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ntono</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>P Marange</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>R Ntono</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>P Marange</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>R Ntono</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>7</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>P Marange</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Ntono</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>N Sibanda</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Ntono</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <non_striker>R Ntono</non_striker>
+          <bowler>N Sibanda</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>S Kemigisha</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>N Sibanda</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ntono</batsman>
+          <wickets>
+            <wicket>
+              <player_out>R Ntono</player_out>
+              <fielders>
+                <fielder>J Nkomo</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>N Sibanda</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>R Musamali</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>N Sibanda</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Musamali</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>N Sibanda</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>R Musamali</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>7</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>N Sibanda</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Musamali</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>P Marange</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Musamali</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>P Marange</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Musamali</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>P Marange</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Musamali</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>P Marange</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Musamali</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <non_striker>R Musamali</non_striker>
+          <bowler>P Marange</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Kemigisha</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <non_striker>R Musamali</non_striker>
+          <bowler>P Marange</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Kemigisha</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>N Sibanda</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>R Musamali</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>N Sibanda</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Musamali</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>N Sibanda</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>R Musamali</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>N Sibanda</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Musamali</batsman>
+          <wickets>
+            <wicket>
+              <player_out>R Musamali</player_out>
+              <kind>bowled</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>N Sibanda</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>G Candiru</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>N Sibanda</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>G Candiru</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>7</ball>
+          <non_striker>S Kemigisha</non_striker>
+          <bowler>N Sibanda</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>G Candiru</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>P Marange</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Kemigisha</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>P Marange</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Kemigisha</batsman>
+          <wickets>
+            <wicket>
+              <player_out>S Kemigisha</player_out>
+              <kind>run out</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <bowler>P Marange</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>F Najjumba</non_striker>
+          <batsman>G Candiru</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <bowler>P Marange</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>F Najjumba</non_striker>
+          <batsman>G Candiru</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>P Marange</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>F Najjumba</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>P Marange</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>F Najjumba</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <non_striker>F Najjumba</non_striker>
+          <bowler>L Tshuma</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>G Candiru</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <non_striker>F Najjumba</non_striker>
+          <bowler>L Tshuma</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>G Candiru</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>L Tshuma</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>F Najjumba</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <non_striker>F Najjumba</non_striker>
+          <bowler>L Tshuma</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>G Candiru</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>L Tshuma</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>F Najjumba</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>L Tshuma</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>F Najjumba</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>P Marange</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>F Najjumba</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>P Marange</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>F Najjumba</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>P Marange</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>F Najjumba</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>P Marange</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>F Najjumba</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <non_striker>F Najjumba</non_striker>
+          <bowler>P Marange</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>G Candiru</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>P Marange</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>F Najjumba</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>L Tshuma</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>F Najjumba</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <non_striker>F Najjumba</non_striker>
+          <bowler>L Tshuma</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>G Candiru</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>L Tshuma</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>F Najjumba</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>L Tshuma</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>F Najjumba</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <non_striker>F Najjumba</non_striker>
+          <bowler>L Tshuma</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>G Candiru</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <non_striker>F Najjumba</non_striker>
+          <bowler>L Tshuma</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>G Candiru</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>7</ball>
+          <non_striker>F Najjumba</non_striker>
+          <bowler>L Tshuma</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>G Candiru</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <non_striker>F Najjumba</non_striker>
+          <bowler>T Granger</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>G Candiru</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>T Granger</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>F Najjumba</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>T Granger</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>F Najjumba</batsman>
+          <wickets>
+            <wicket>
+              <player_out>F Najjumba</player_out>
+              <kind>bowled</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>T Granger</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>I Nakisuuyi</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>T Granger</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>I Nakisuuyi</batsman>
+          <wickets>
+            <wicket>
+              <player_out>I Nakisuuyi</player_out>
+              <fielders>
+                <fielder>J Nkomo</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>T Granger</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>S Nampiina</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>L Tshuma</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Nampiina</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>L Tshuma</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Nampiina</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>L Tshuma</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Nampiina</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>L Tshuma</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Nampiina</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>L Tshuma</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Nampiina</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>L Tshuma</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Nampiina</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <non_striker>S Nampiina</non_striker>
+          <bowler>T Granger</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>G Candiru</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>T Granger</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Nampiina</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>T Granger</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Nampiina</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>T Granger</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>S Nampiina</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>T Granger</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>S Nampiina</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>T Granger</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Nampiina</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <non_striker>S Nampiina</non_striker>
+          <bowler>L Tshuma</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>G Candiru</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <non_striker>S Nampiina</non_striker>
+          <bowler>L Tshuma</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>G Candiru</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <non_striker>S Nampiina</non_striker>
+          <bowler>L Tshuma</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>G Candiru</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>L Tshuma</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Nampiina</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>L Tshuma</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>S Nampiina</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <non_striker>S Nampiina</non_striker>
+          <bowler>L Tshuma</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>G Candiru</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>S Nampiina</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Nampiina</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Nampiina</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>S Nampiina</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <non_striker>S Nampiina</non_striker>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>G Candiru</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>S Nampiina</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>7</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>S Nampiina</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>T Granger</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>S Nampiina</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>T Granger</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Nampiina</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>T Granger</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>S Nampiina</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>T Granger</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Nampiina</batsman>
+          <wickets>
+            <wicket>
+              <player_out>S Nampiina</player_out>
+              <fielders>
+                <fielder>CS Mugeri</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <bowler>T Granger</bowler>
+          <runs>
+            <extras>4</extras>
+            <total>4</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <byes>4</byes>
+          </extras>
+          <non_striker>K Awino</non_striker>
+          <batsman>G Candiru</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <non_striker>K Awino</non_striker>
+          <bowler>T Granger</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>G Candiru</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Awino</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <non_striker>G Candiru</non_striker>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>2</extras>
+            <total>2</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>2</wides>
+          </extras>
+          <batsman>K Awino</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <non_striker>K Awino</non_striker>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>G Candiru</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <non_striker>K Awino</non_striker>
+          <bowler>J Nkomo</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>3</total>
+            <batsman>3</batsman>
+          </runs>
+          <batsman>G Candiru</batsman>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>
