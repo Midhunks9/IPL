@@ -1,0 +1,5411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-10-15</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Voorburg</city>
+    <dates>
+      <date>2017-06-09</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>ODM</match_type>
+    <outcome>
+      <winner>Germany</winner>
+      <by>
+        <wickets>10</wickets>
+      </by>
+    </outcome>
+    <overs>50</overs>
+    <player_of_match>
+      <player_of_match>Mudassar Muhammad</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>France</team>
+      <team>Germany</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Germany</winner>
+    </toss>
+    <umpires>
+      <umpire>M Hawthorne</umpire>
+      <umpire>S Ketipe</umpire>
+    </umpires>
+    <venue>Sportpark Duivesteijn</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>France</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>S Tambidoure</non_striker>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>S Tambidoure</non_striker>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>S Tambidoure</non_striker>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>S Tambidoure</non_striker>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>S Tambidoure</non_striker>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <non_striker>S Tambidoure</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Tambidoure</batsman>
+          <wickets>
+            <wicket>
+              <player_out>S Tambidoure</player_out>
+              <fielders>
+                <fielder>D Weston</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>AV Ayyavooraju</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <batsman>AV Ayyavooraju</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <non_striker>AV Ayyavooraju</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <non_striker>AV Ayyavooraju</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <non_striker>AV Ayyavooraju</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <non_striker>AV Ayyavooraju</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <non_striker>AV Ayyavooraju</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <non_striker>AV Ayyavooraju</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <non_striker>AV Ayyavooraju</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <non_striker>AV Ayyavooraju</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <non_striker>AV Ayyavooraju</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <non_striker>AV Ayyavooraju</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>AV Ayyavooraju</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AV Ayyavooraju</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>AV Ayyavooraju</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <non_striker>AV Ayyavooraju</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <non_striker>AV Ayyavooraju</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AV Ayyavooraju</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>7</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>AV Ayyavooraju</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <non_striker>AV Ayyavooraju</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <non_striker>AV Ayyavooraju</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <non_striker>AV Ayyavooraju</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <non_striker>AV Ayyavooraju</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AV Ayyavooraju</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>AV Ayyavooraju</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AV Ayyavooraju</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>AV Ayyavooraju</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <non_striker>AV Ayyavooraju</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AV Ayyavooraju</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AV Ayyavooraju</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AV Ayyavooraju</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <non_striker>AV Ayyavooraju</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <non_striker>AV Ayyavooraju</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <non_striker>AV Ayyavooraju</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AV Ayyavooraju</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AV Ayyavooraju</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AV Ayyavooraju</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <non_striker>AV Ayyavooraju</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AV Ayyavooraju</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AV Ayyavooraju</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AV Ayyavooraju</batsman>
+          <wickets>
+            <wicket>
+              <player_out>AV Ayyavooraju</player_out>
+              <kind>lbw</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>7</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Sajid Liaqat</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Sajid Liaqat</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Sajid Liaqat</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Sajid Liaqat</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>Sajid Liaqat</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>Sajid Liaqat</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>Asad Mohammad</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>Asad Mohammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>Asad Mohammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Asad Mohammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Asad Mohammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Asad Mohammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>7</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Asad Mohammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Sajid Liaqat</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Sajid Liaqat</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Sajid Liaqat</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Sajid Liaqat</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Sajid Liaqat</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>Sajid Liaqat</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Asad Mohammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Asad Mohammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Asad Mohammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Asad Mohammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>Asad Mohammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>Asad Mohammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Sajid Liaqat</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Sajid Liaqat</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Sajid Liaqat</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Sajid Liaqat</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Sajid Liaqat</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>Sajid Liaqat</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <non_striker>U Shahid</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>U Shahid</batsman>
+          <wickets>
+            <wicket>
+              <player_out>U Shahid</player_out>
+              <kind>lbw</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Usman Khan</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Usman Khan</batsman>
+          <wickets>
+            <wicket>
+              <player_out>Usman Khan</player_out>
+              <fielders>
+                <fielder>Asad Mohammad</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>7</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>1</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>2</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>3</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>4</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>5</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>6</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>1</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>2</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>3</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>4</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>5</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>6</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>1</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>2</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>3</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>4</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>5</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>6</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>1</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>2</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>3</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>4</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>5</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>6</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>1</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>2</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>3</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>4</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>5</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>6</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>1</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>2</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>3</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>4</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>5</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>6</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>1</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>2</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>3</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>4</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>5</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>6</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>1</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>2</ball>
+          <non_striker>H Niaz</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>3</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>4</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Niaz</batsman>
+          <wickets>
+            <wicket>
+              <player_out>H Niaz</player_out>
+              <fielders>
+                <fielder>Mudassar Muhammad</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>5</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Pavadaikannan</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>6</ball>
+          <non_striker>R Pavadaikannan</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>7</ball>
+          <non_striker>R Pavadaikannan</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>1</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>R Pavadaikannan</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>2</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Pavadaikannan</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>3</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Pavadaikannan</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>4</ball>
+          <non_striker>R Pavadaikannan</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>5</ball>
+          <non_striker>R Pavadaikannan</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>6</ball>
+          <non_striker>R Pavadaikannan</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>1</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Pavadaikannan</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>2</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Pavadaikannan</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>3</ball>
+          <non_striker>R Pavadaikannan</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>4</ball>
+          <non_striker>R Pavadaikannan</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>5</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Pavadaikannan</batsman>
+          <wickets>
+            <wicket>
+              <player_out>R Pavadaikannan</player_out>
+              <kind>lbw</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>6</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>Shahzeb Mohammed</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>1</ball>
+          <non_striker>Shahzeb Mohammed</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>2</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Shahzeb Mohammed</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>3</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Shahzeb Mohammed</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>4</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Shahzeb Mohammed</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>5</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Shahzeb Mohammed</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>6</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Shahzeb Mohammed</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>1</ball>
+          <non_striker>Shahzeb Mohammed</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>2</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>Shahzeb Mohammed</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>3</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Shahzeb Mohammed</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>4</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Shahzeb Mohammed</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>5</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Shahzeb Mohammed</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>6</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Shahzeb Mohammed</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>1</ball>
+          <non_striker>Shahzeb Mohammed</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>2</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>Shahzeb Mohammed</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>3</ball>
+          <non_striker>RJA Murphy</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Shahzeb Mohammed</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>4</ball>
+          <non_striker>Shahzeb Mohammed</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RJA Murphy</batsman>
+          <wickets>
+            <wicket>
+              <player_out>RJA Murphy</player_out>
+              <kind>bowled</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>5</ball>
+          <non_striker>Shahzeb Mohammed</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>6</ball>
+          <non_striker>Shahzeb Mohammed</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>7</ball>
+          <non_striker>Shahzeb Mohammed</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>1</ball>
+          <non_striker>Shahzeb Mohammed</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>2</ball>
+          <non_striker>Shahzeb Mohammed</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>3</ball>
+          <non_striker>Shahzeb Mohammed</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>4</ball>
+          <non_striker>Shahzeb Mohammed</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>5</ball>
+          <non_striker>Shahzeb Mohammed</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>6</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>Shahzeb Mohammed</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>1</ball>
+          <non_striker>Shahzeb Mohammed</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>2</ball>
+          <non_striker>Shahzeb Mohammed</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>3</ball>
+          <non_striker>Shahzeb Mohammed</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>4</ball>
+          <non_striker>Shahzeb Mohammed</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>5</ball>
+          <non_striker>Shahzeb Mohammed</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>6</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>Mudassar Muhammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Shahzeb Mohammed</batsman>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>1</ball>
+          <non_striker>Shahzeb Mohammed</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>2</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Shahzeb Mohammed</batsman>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>3</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Shahzeb Mohammed</batsman>
+          <wickets>
+            <wicket>
+              <player_out>Shahzeb Mohammed</player_out>
+              <kind>bowled</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>4</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>5</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>6</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>Shahil Momin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>1</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>2</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>3</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>4</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>5</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>6</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>7</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>1</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>2</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>3</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>4</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>5</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>6</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>1</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>2</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>3</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>4</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>5</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>6</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>1</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>2</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>3</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>4</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>5</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>6</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>1</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>2</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>3</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>4</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>2</extras>
+            <total>2</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>2</wides>
+          </extras>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>5</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>6</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>7</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>8</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>1</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>2</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>3</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>4</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>5</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>6</ball>
+          <non_striker>Zika Ali</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>7</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>1</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>2</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Zika Ali</batsman>
+          <wickets>
+            <wicket>
+              <player_out>Zika Ali</player_out>
+              <fielders>
+                <fielder>R Pillai</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>3</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Ammar Zahir</batsman>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>4</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Ammar Zahir</batsman>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>5</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Ammar Zahir</batsman>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>6</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>Ammar Zahir</batsman>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>7</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>Ahmed Wardak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Ammar Zahir</batsman>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>1</ball>
+          <non_striker>Ammar Zahir</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>2</ball>
+          <non_striker>Ammar Zahir</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>3</ball>
+          <non_striker>Ammar Zahir</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>4</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Ammar Zahir</batsman>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>5</ball>
+          <non_striker>Ammar Zahir</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>6</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Ammar Zahir</batsman>
+        </delivery>
+        <delivery>
+          <over>44</over>
+          <ball>1</ball>
+          <non_striker>Ammar Zahir</non_striker>
+          <bowler>Asad Mohammad</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>44</over>
+          <ball>2</ball>
+          <non_striker>Ammar Zahir</non_striker>
+          <bowler>Asad Mohammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>44</over>
+          <ball>3</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>Asad Mohammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Ammar Zahir</batsman>
+        </delivery>
+        <delivery>
+          <over>44</over>
+          <ball>4</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>Asad Mohammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Ammar Zahir</batsman>
+        </delivery>
+        <delivery>
+          <over>44</over>
+          <ball>5</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>Asad Mohammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Ammar Zahir</batsman>
+        </delivery>
+        <delivery>
+          <over>44</over>
+          <ball>6</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>Asad Mohammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Ammar Zahir</batsman>
+        </delivery>
+        <delivery>
+          <over>44</over>
+          <ball>7</ball>
+          <non_striker>R Ehsan</non_striker>
+          <bowler>Asad Mohammad</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Ammar Zahir</batsman>
+        </delivery>
+        <delivery>
+          <over>45</over>
+          <ball>1</ball>
+          <non_striker>Ammar Zahir</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>45</over>
+          <ball>2</ball>
+          <non_striker>Ammar Zahir</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>45</over>
+          <ball>3</ball>
+          <non_striker>Ammar Zahir</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>45</over>
+          <ball>4</ball>
+          <non_striker>Ammar Zahir</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+        </delivery>
+        <delivery>
+          <over>45</over>
+          <ball>5</ball>
+          <non_striker>Ammar Zahir</non_striker>
+          <bowler>ME Latif</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Ehsan</batsman>
+          <wickets>
+            <wicket>
+              <player_out>R Ehsan</player_out>
+              <fielders>
+                <fielder>A Sarma</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Germany</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>8</ball>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>9</ball>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>R Ehsan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>R Ehsan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>R Ehsan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>R Ehsan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>R Ehsan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>R Ehsan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>R Ehsan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>R Ehsan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>R Ehsan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>R Ehsan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>R Ehsan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>R Ehsan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Usman Khan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>2</extras>
+            <total>2</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <byes>2</byes>
+          </extras>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Zika Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Zika Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Zika Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Zika Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Zika Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Zika Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>7</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>8</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Zika Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Zika Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Zika Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Zika Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Zika Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Zika Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Zika Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Zika Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Zika Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Zika Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Zika Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Zika Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>U Shahid</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Zika Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Zika Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Zika Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Zika Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Zika Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Zika Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>H Niaz</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>H Niaz</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>H Niaz</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>H Niaz</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>H Niaz</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>H Niaz</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Shahzeb Mohammed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Shahzeb Mohammed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Shahzeb Mohammed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Shahzeb Mohammed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Shahzeb Mohammed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Shahzeb Mohammed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>H Niaz</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>H Niaz</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>H Niaz</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>H Niaz</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>H Niaz</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>H Niaz</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>1</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Shahzeb Mohammed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>2</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Shahzeb Mohammed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>3</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Shahzeb Mohammed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>4</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Shahzeb Mohammed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>5</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Shahzeb Mohammed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>6</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Shahzeb Mohammed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>1</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>H Niaz</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>2</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>H Niaz</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>3</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>H Niaz</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>4</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>H Niaz</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>5</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>H Niaz</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>6</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>H Niaz</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>1</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Shahzeb Mohammed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>2</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Shahzeb Mohammed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>3</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Shahzeb Mohammed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>4</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Shahzeb Mohammed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>5</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>Shahzeb Mohammed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>6</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>Shahzeb Mohammed</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>1</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>H Niaz</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>2</ball>
+          <non_striker>D Weston</non_striker>
+          <bowler>H Niaz</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Mudassar Muhammad</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>3</ball>
+          <non_striker>Mudassar Muhammad</non_striker>
+          <bowler>H Niaz</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>D Weston</batsman>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>
