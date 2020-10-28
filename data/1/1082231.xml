@@ -1,0 +1,5756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-10-26</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Bendigo</city>
+    <dates>
+      <date>2017-02-25</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>ODM</match_type>
+    <outcome>
+      <winner>Philippines</winner>
+      <by>
+        <wickets>8</wickets>
+      </by>
+    </outcome>
+    <overs>50</overs>
+    <player_of_match>
+      <player_of_match>R Mahajan</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Japan</team>
+      <team>Philippines</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Philippines</winner>
+    </toss>
+    <umpires>
+      <umpire>L Oala</umpire>
+      <umpire>C Howard</umpire>
+    </umpires>
+    <venue>White Hills Oval</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Japan</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>W Miyauchi</non_striker>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>W Miyauchi</non_striker>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>W Miyauchi</non_striker>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>W Miyauchi</non_striker>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>W Miyauchi</non_striker>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>W Miyauchi</non_striker>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <non_striker>W Miyauchi</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>W Miyauchi</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>W Miyauchi</batsman>
+          <wickets>
+            <wicket>
+              <player_out>W Miyauchi</player_out>
+              <fielders>
+                <fielder>MP Biddappa</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>7</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>7</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>8</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <non_striker>M Taniyama</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Taniyama</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Taniyama</batsman>
+          <wickets>
+            <wicket>
+              <player_out>M Taniyama</player_out>
+              <fielders>
+                <fielder>HER Tyler</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Kano</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Kano</batsman>
+          <wickets>
+            <wicket>
+              <player_out>R Kano</player_out>
+              <fielders>
+                <fielder>MP Biddappa</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>T Takada</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>7</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>T Takada</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <non_striker>T Takada</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <non_striker>T Takada</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <non_striker>T Takada</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>3</total>
+            <batsman>3</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>T Takada</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>T Takada</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>T Takada</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>7</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>R Thakur</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>T Takada</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <non_striker>T Takada</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <non_striker>T Takada</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <non_striker>T Takada</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <non_striker>T Takada</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <non_striker>T Takada</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <non_striker>T Takada</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>7</ball>
+          <non_striker>T Takada</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>T Takada</batsman>
+          <wickets>
+            <wicket>
+              <player_out>T Takada</player_out>
+              <fielders>
+                <fielder>Vimal Kumar</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>7</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>7</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Tariq Ali</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>7</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>8</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>7</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>3</total>
+            <batsman>3</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Harjit Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>1</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>2</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>3</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>4</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>5</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>6</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>1</ball>
+          <non_striker>M Kobayashi</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>2</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>3</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>4</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>5</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kobayashi</batsman>
+          <wickets>
+            <wicket>
+              <player_out>M Kobayashi</player_out>
+              <kind>lbw</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>6</ball>
+          <non_striker>K Okoshi</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Yamashita</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>1</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>2</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>3</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>4</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>5</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>6</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>1</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Okoshi</batsman>
+          <wickets>
+            <wicket>
+              <player_out>K Okoshi</player_out>
+              <fielders>
+                <fielder>JH Kiani</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>2</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>3</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>4</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>5</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>6</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>1</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>J Yamashita</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>2</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>3</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>4</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>5</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>6</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>1</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>2</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>J Yamashita</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>3</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>4</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>5</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>6</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>1</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Yamashita</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>2</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>J Yamashita</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>3</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>4</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>5</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>6</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>1</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Yamashita</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>2</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Yamashita</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>3</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Yamashita</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>4</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Yamashita</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>5</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>J Yamashita</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>6</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>1</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Yamashita</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>2</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>J Yamashita</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>3</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>J Yamashita</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>4</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Yamashita</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>5</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Yamashita</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>6</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>J Yamashita</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>7</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>Vimal Kumar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Yamashita</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>1</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>HER Tyler</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>2</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>HER Tyler</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>J Yamashita</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>3</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>HER Tyler</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>4</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>HER Tyler</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>5</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>HER Tyler</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>6</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>HER Tyler</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Yamashita</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>1</ball>
+          <non_striker>J Yamashita</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+          <wickets>
+            <wicket>
+              <player_out>J Yamashita</player_out>
+              <kind>run out</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>2</ball>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>K Wakita</non_striker>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>3</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Wakita</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>4</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>K Wakita</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>5</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>K Wakita</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>6</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Wakita</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>1</ball>
+          <non_striker>K Wakita</non_striker>
+          <bowler>HER Tyler</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>2</ball>
+          <non_striker>K Wakita</non_striker>
+          <bowler>HER Tyler</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>3</ball>
+          <non_striker>K Wakita</non_striker>
+          <bowler>HER Tyler</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>4</ball>
+          <non_striker>K Wakita</non_striker>
+          <bowler>HER Tyler</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>5</ball>
+          <non_striker>K Wakita</non_striker>
+          <bowler>HER Tyler</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>6</ball>
+          <non_striker>K Wakita</non_striker>
+          <bowler>HER Tyler</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>1</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Wakita</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>2</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Wakita</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>3</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>K Wakita</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>4</ball>
+          <non_striker>K Wakita</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>5</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Wakita</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>6</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>K Wakita</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>1</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>HER Tyler</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>K Wakita</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>2</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>HER Tyler</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Wakita</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>3</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>HER Tyler</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Wakita</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>4</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>HER Tyler</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>K Wakita</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>5</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>HER Tyler</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>K Wakita</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>6</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>HER Tyler</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Wakita</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>1</ball>
+          <non_striker>K Wakita</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>2</ball>
+          <non_striker>K Wakita</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>3</ball>
+          <non_striker>K Wakita</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>4</ball>
+          <non_striker>K Wakita</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>5</ball>
+          <non_striker>K Wakita</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>6</ball>
+          <non_striker>MM Siddique</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Wakita</batsman>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>1</ball>
+          <non_striker>K Wakita</non_striker>
+          <bowler>J Hill</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MM Siddique</batsman>
+          <wickets>
+            <wicket>
+              <player_out>MM Siddique</player_out>
+              <kind>bowled</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>2</ball>
+          <non_striker>K Wakita</non_striker>
+          <bowler>J Hill</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>T Hagihara</batsman>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>3</ball>
+          <non_striker>T Hagihara</non_striker>
+          <bowler>J Hill</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Wakita</batsman>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>4</ball>
+          <non_striker>T Hagihara</non_striker>
+          <bowler>J Hill</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>K Wakita</batsman>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>5</ball>
+          <non_striker>T Hagihara</non_striker>
+          <bowler>J Hill</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>K Wakita</batsman>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>6</ball>
+          <non_striker>T Hagihara</non_striker>
+          <bowler>J Hill</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Wakita</batsman>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>7</ball>
+          <non_striker>T Hagihara</non_striker>
+          <bowler>J Hill</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Wakita</batsman>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>1</ball>
+          <non_striker>K Wakita</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>T Hagihara</batsman>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>2</ball>
+          <non_striker>K Wakita</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>T Hagihara</batsman>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>3</ball>
+          <non_striker>T Hagihara</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Wakita</batsman>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>4</ball>
+          <non_striker>T Hagihara</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>K Wakita</batsman>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>5</ball>
+          <non_striker>T Hagihara</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>K Wakita</batsman>
+          <wickets>
+            <wicket>
+              <player_out>K Wakita</player_out>
+              <kind>bowled</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>6</ball>
+          <non_striker>T Hagihara</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Yamada</batsman>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>1</ball>
+          <non_striker>S Yamada</non_striker>
+          <bowler>J Hill</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>T Hagihara</batsman>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>2</ball>
+          <non_striker>T Hagihara</non_striker>
+          <bowler>J Hill</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Yamada</batsman>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>3</ball>
+          <non_striker>T Hagihara</non_striker>
+          <bowler>J Hill</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Yamada</batsman>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>4</ball>
+          <non_striker>T Hagihara</non_striker>
+          <bowler>J Hill</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Yamada</batsman>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>5</ball>
+          <non_striker>T Hagihara</non_striker>
+          <bowler>J Hill</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Yamada</batsman>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>6</ball>
+          <non_striker>T Hagihara</non_striker>
+          <bowler>J Hill</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>S Yamada</batsman>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>1</ball>
+          <non_striker>S Yamada</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>T Hagihara</batsman>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>2</ball>
+          <non_striker>S Yamada</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>T Hagihara</batsman>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>3</ball>
+          <non_striker>S Yamada</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>T Hagihara</batsman>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>4</ball>
+          <non_striker>T Hagihara</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>S Yamada</batsman>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>5</ball>
+          <non_striker>S Yamada</non_striker>
+          <bowler>R Mahajan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>T Hagihara</batsman>
+          <wickets>
+            <wicket>
+              <player_out>T Hagihara</player_out>
+              <fielders>
+                <fielder>HER Tyler</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Philippines</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <bowler>J Yamashita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>MK Gohal</non_striker>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <bowler>J Yamashita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>MK Gohal</non_striker>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <bowler>J Yamashita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>MK Gohal</non_striker>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <bowler>J Yamashita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>MK Gohal</non_striker>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <bowler>J Yamashita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>MK Gohal</non_striker>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>J Yamashita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>J Yamashita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>J Yamashita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>J Yamashita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>J Yamashita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>J Yamashita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>J Yamashita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>J Yamashita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>J Yamashita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>J Yamashita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>J Yamashita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>J Yamashita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>J Yamashita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>J Yamashita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>J Yamashita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>J Yamashita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>J Yamashita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>J Yamashita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>J Yamashita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>MM Siddique</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>MM Siddique</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>MM Siddique</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>MM Siddique</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>MM Siddique</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>MM Siddique</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>MM Siddique</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>MM Siddique</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>MM Siddique</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>MM Siddique</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>MM Siddique</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>MM Siddique</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>7</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>MM Siddique</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>MM Siddique</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>MM Siddique</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>MM Siddique</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>MM Siddique</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>MM Siddique</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>MM Siddique</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>2</extras>
+            <total>2</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>2</legbyes>
+          </extras>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>T Hagihara</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>T Hagihara</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>T Hagihara</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>T Hagihara</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>T Hagihara</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>T Hagihara</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>7</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>T Hagihara</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>8</ball>
+          <non_striker>MK Gohal</non_striker>
+          <bowler>T Hagihara</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>K Wakita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>K Wakita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>K Wakita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MK Gohal</batsman>
+          <wickets>
+            <wicket>
+              <player_out>MK Gohal</player_out>
+              <kind>bowled</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>K Wakita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>K Wakita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>K Wakita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>1</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>K Wakita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>2</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>K Wakita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>3</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>K Wakita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>4</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>K Wakita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>5</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>K Wakita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>6</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>K Wakita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>1</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>2</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>3</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>4</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>5</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>6</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>1</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>2</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>3</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>4</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>5</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>6</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>1</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>2</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>3</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>4</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>5</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>6</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>1</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>2</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>3</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>4</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>5</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>6</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>7</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>8</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>1</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>2</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>3</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>4</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>5</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>6</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>1</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>2</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>3</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>4</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>5</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>6</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>1</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>2</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>3</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>4</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>5</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>6</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>1</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>2</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>3</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>4</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>5</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>6</ball>
+          <non_striker>JH Kiani</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>1</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>2</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JH Kiani</batsman>
+          <wickets>
+            <wicket>
+              <player_out>JH Kiani</player_out>
+              <fielders>
+                <fielder>K Wakita</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>3</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HER Tyler</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>4</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HER Tyler</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>5</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HER Tyler</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>6</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HER Tyler</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>1</ball>
+          <non_striker>HER Tyler</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>2</ball>
+          <non_striker>HER Tyler</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>3</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HER Tyler</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>4</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>HER Tyler</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>5</ball>
+          <non_striker>HER Tyler</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>6</ball>
+          <non_striker>HER Tyler</non_striker>
+          <bowler>T Takada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>1</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HER Tyler</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>2</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>HER Tyler</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>3</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>HER Tyler</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>4</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>HER Tyler</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>5</ball>
+          <non_striker>HER Tyler</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>6</ball>
+          <non_striker>HER Tyler</non_striker>
+          <bowler>S Yamada</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>1</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HER Tyler</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>2</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HER Tyler</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>3</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>HER Tyler</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>4</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HER Tyler</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>5</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HER Tyler</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>6</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HER Tyler</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>1</ball>
+          <non_striker>HER Tyler</non_striker>
+          <bowler>K Wakita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>2</ball>
+          <non_striker>HER Tyler</non_striker>
+          <bowler>K Wakita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>3</ball>
+          <non_striker>HER Tyler</non_striker>
+          <bowler>K Wakita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>4</ball>
+          <non_striker>HER Tyler</non_striker>
+          <bowler>K Wakita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>5</ball>
+          <non_striker>HER Tyler</non_striker>
+          <bowler>K Wakita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>6</ball>
+          <non_striker>HER Tyler</non_striker>
+          <bowler>K Wakita</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>1</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>HER Tyler</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>2</ball>
+          <non_striker>HER Tyler</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>3</ball>
+          <non_striker>HER Tyler</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>J Hill</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>4</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HER Tyler</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>5</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>HER Tyler</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>6</ball>
+          <non_striker>J Hill</non_striker>
+          <bowler>M Taniyama</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>HER Tyler</batsman>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>
