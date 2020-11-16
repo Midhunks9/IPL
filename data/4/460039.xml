@@ -1,0 +1,5921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-11-14</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <city>Hamilton</city>
+    <dates>
+      <date>2010-05-28</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>ODM</match_type>
+    <outcome>
+      <winner>Bermuda</winner>
+      <by>
+        <wickets>7</wickets>
+      </by>
+    </outcome>
+    <overs>50</overs>
+    <player_of_match>
+      <player_of_match>K Tucker</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Bahamas</team>
+      <team>Bermuda</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Bermuda</winner>
+    </toss>
+    <umpires>
+      <umpire>H Smythe</umpire>
+      <umpire>K Bayney</umpire>
+    </umpires>
+    <venue>National Stadium</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>Bahamas</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>M Taylor</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <non_striker>H Gilliard</non_striker>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Taylor</batsman>
+          <wickets>
+            <wicket>
+              <player_out>M Taylor</player_out>
+              <fielders>
+                <fielder>DL Hemp</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>RA Tappin</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>RA Tappin</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>RA Tappin</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <non_striker>H Gilliard</non_striker>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RA Tappin</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>RA Tappin</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RA Tappin</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>RA Tappin</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>RA Tappin</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>RA Tappin</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>RA Tappin</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <non_striker>H Gilliard</non_striker>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RA Tappin</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RA Tappin</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>RA Tappin</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>RA Tappin</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>RA Tappin</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>RA Tappin</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>RA Tappin</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>7</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>RA Tappin</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>8</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>RA Tappin</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>9</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>RA Tappin</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>10</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>RA Tappin</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>11</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>RA Tappin</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>12</ball>
+          <non_striker>H Gilliard</non_striker>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RA Tappin</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>RA Tappin</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>RA Tappin</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>RA Tappin</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>RA Tappin</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>RA Tappin</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <non_striker>RA Tappin</non_striker>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>RA Tappin</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>RA Tappin</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>RA Tappin</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>RA Tappin</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>RA Tappin</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>RA Tappin</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <non_striker>H Gilliard</non_striker>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RA Tappin</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>RA Tappin</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>RA Tappin</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>RA Tappin</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>RA Tappin</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>RA Tappin</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <non_striker>RA Tappin</non_striker>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>RA Tappin</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>RA Tappin</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>RA Tappin</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>RA Tappin</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>RA Tappin</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <non_striker>H Gilliard</non_striker>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>RA Tappin</batsman>
+          <wickets>
+            <wicket>
+              <player_out>RA Tappin</player_out>
+              <fielders>
+                <fielder>JJ Tucker</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>7</ball>
+          <non_striker>H Gilliard</non_striker>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JR Barry</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>JR Barry</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>JR Barry</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>JR Barry</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>JR Barry</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>JR Barry</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <non_striker>H Gilliard</non_striker>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JR Barry</batsman>
+          <wickets>
+            <wicket>
+              <player_out>JR Barry</player_out>
+              <fielders>
+                <fielder>J Edness</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>R Parkes</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>R Parkes</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>R Parkes</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>R Parkes</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>R Parkes</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>R Parkes</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>7</ball>
+          <non_striker>R Parkes</non_striker>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>R Parkes</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <non_striker>H Gilliard</non_striker>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Parkes</batsman>
+          <wickets>
+            <wicket>
+              <player_out>R Parkes</player_out>
+              <fielders>
+                <fielder>J Gilbert</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>GT Taylor</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>GT Taylor</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>GT Taylor</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <non_striker>H Gilliard</non_striker>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>GT Taylor</batsman>
+          <wickets>
+            <wicket>
+              <player_out>GT Taylor</player_out>
+              <kind>lbw</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <non_striker>DG Weakley</non_striker>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <non_striker>H Gilliard</non_striker>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>7</ball>
+          <non_striker>DG Weakley</non_striker>
+          <bowler>MO Jones</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>2</extras>
+            <total>2</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>2</legbyes>
+          </extras>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <non_striker>H Gilliard</non_striker>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <non_striker>H Gilliard</non_striker>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>7</ball>
+          <non_striker>H Gilliard</non_striker>
+          <bowler>K Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <non_striker>DG Weakley</non_striker>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>H Gilliard</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>7</ball>
+          <non_striker>H Gilliard</non_striker>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>H Gilliard</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <non_striker>DG Weakley</non_striker>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Gilliard</batsman>
+          <wickets>
+            <wicket>
+              <player_out>H Gilliard</player_out>
+              <fielders>
+                <fielder>J Gilbert</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>7</ball>
+          <non_striker>DG Weakley</non_striker>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>1</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>2</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>3</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>4</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>5</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>6</ball>
+          <non_striker>NH Ekanayake</non_striker>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>1</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>2</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>3</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>4</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>5</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>6</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>7</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>8</ball>
+          <non_striker>DG Weakley</non_striker>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>1</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>2</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>3</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>4</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>5</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>6</ball>
+          <non_striker>DG Weakley</non_striker>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>1</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>2</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>3</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>4</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>5</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>5</total>
+            <batsman>4</batsman>
+          </runs>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>6</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <byes>1</byes>
+          </extras>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>7</ball>
+          <non_striker>DG Weakley</non_striker>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>1</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>2</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>3</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>4</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>5</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>6</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>7</ball>
+          <non_striker>NH Ekanayake</non_striker>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>1</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>2</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>3</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>4</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>5</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>6</ball>
+          <non_striker>DG Weakley</non_striker>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>1</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>2</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>3</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>4</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>5</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>6</ball>
+          <non_striker>DG Weakley</non_striker>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>1</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>2</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>3</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>4</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>5</ball>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>6</ball>
+          <non_striker>DG Weakley</non_striker>
+          <bowler>J West</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>1</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>2</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>3</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>4</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>5</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>6</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>7</ball>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>8</ball>
+          <non_striker>NH Ekanayake</non_striker>
+          <bowler>JJ Tucker</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>1</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>2</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>3</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>4</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>5</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>6</ball>
+          <non_striker>NH Ekanayake</non_striker>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>1</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>3</total>
+            <batsman>3</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>2</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>3</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>4</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>5</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>6</ball>
+          <non_striker>NH Ekanayake</non_striker>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>1</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>2</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>3</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>4</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>5</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>6</ball>
+          <non_striker>NH Ekanayake</non_striker>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>1</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>2</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>3</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>DG Weakley</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>4</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>5</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>6</ball>
+          <non_striker>NH Ekanayake</non_striker>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>1</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>DG Weakley</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>2</ball>
+          <non_striker>NH Ekanayake</non_striker>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DG Weakley</batsman>
+          <wickets>
+            <wicket>
+              <player_out>DG Weakley</player_out>
+              <kind>bowled</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>3</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>A Peters</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>4</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>A Peters</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>5</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>A Peters</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>6</ball>
+          <non_striker>NH Ekanayake</non_striker>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>A Peters</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>1</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>A Peters</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>2</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>A Peters</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>3</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>A Peters</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>4</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <non_striker>A Peters</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>5</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>A Peters</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>6</ball>
+          <non_striker>A Peters</non_striker>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>1</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>A Peters</batsman>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>2</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>A Peters</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>3</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>A Peters</batsman>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>4</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>A Peters</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>5</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>A Peters</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>6</ball>
+          <non_striker>NH Ekanayake</non_striker>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>A Peters</batsman>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>1</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <non_striker>A Peters</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>2</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>A Peters</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>3</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>A Peters</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>4</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>A Peters</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>5</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>A Peters</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>6</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>A Peters</batsman>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>7</ball>
+          <non_striker>NH Ekanayake</non_striker>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>A Peters</batsman>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>1</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>A Peters</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>2</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>A Peters</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>3</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <non_striker>A Peters</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>4</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>A Peters</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>5</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>A Peters</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>6</ball>
+          <non_striker>A Peters</non_striker>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>1</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>A Peters</batsman>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>2</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>A Peters</batsman>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>3</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>A Peters</batsman>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>4</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>A Peters</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>5</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>A Peters</batsman>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>6</ball>
+          <non_striker>A Peters</non_striker>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>1</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>A Peters</batsman>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>2</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>A Peters</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>3</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>A Peters</batsman>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>4</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <non_striker>A Peters</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>5</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>A Peters</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>6</ball>
+          <non_striker>A Peters</non_striker>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>1</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>A Peters</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>2</ball>
+          <non_striker>NH Ekanayake</non_striker>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>A Peters</batsman>
+          <wickets>
+            <wicket>
+              <player_out>A Peters</player_out>
+              <fielders>
+                <fielder>J Edness</fielder>
+              </fielders>
+              <kind>stumped</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>3</ball>
+          <non_striker>NH Ekanayake</non_striker>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Adderley</batsman>
+          <wickets>
+            <wicket>
+              <player_out>J Adderley</player_out>
+              <fielders>
+                <fielder>J Edness</fielder>
+              </fielders>
+              <kind>stumped</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>4</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>G Irvin</batsman>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>5</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>G Irvin</batsman>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>6</ball>
+          <non_striker>G Irvin</non_striker>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>1</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>G Irvin</batsman>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>2</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>G Irvin</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>3</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>G Irvin</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>4</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>G Irvin</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>5</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>G Irvin</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>6</ball>
+          <non_striker>G Irvin</non_striker>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>1</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>G Irvin</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>2</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>G Irvin</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>3</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <non_striker>G Irvin</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>4</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>G Irvin</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>5</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>G Irvin</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>6</ball>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>G Irvin</batsman>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>7</ball>
+          <non_striker>NH Ekanayake</non_striker>
+          <bowler>RJ Trott</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>G Irvin</batsman>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>1</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>G Irvin</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>2</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>G Irvin</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>3</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>G Irvin</batsman>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>4</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>G Irvin</non_striker>
+          <batsman>NH Ekanayake</batsman>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>5</ball>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>NH Ekanayake</non_striker>
+          <batsman>G Irvin</batsman>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>6</ball>
+          <non_striker>NH Ekanayake</non_striker>
+          <bowler>J Gilbert</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>G Irvin</batsman>
+          <wickets>
+            <wicket>
+              <player_out>G Irvin</player_out>
+              <fielders>
+                <fielder>IH Romaine</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Bermuda</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <bowler>J Adderley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>FS Crockwell</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <bowler>J Adderley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>FS Crockwell</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <bowler>J Adderley</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>J Edness</non_striker>
+          <batsman>FS Crockwell</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <bowler>J Adderley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>FS Crockwell</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <bowler>J Adderley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>FS Crockwell</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <bowler>J Adderley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>FS Crockwell</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <non_striker>J Edness</non_striker>
+          <bowler>J Adderley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>FS Crockwell</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>FS Crockwell</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>FS Crockwell</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>FS Crockwell</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>FS Crockwell</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>FS Crockwell</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>J Edness</non_striker>
+          <batsman>FS Crockwell</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <non_striker>J Edness</non_striker>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>FS Crockwell</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <non_striker>J Edness</non_striker>
+          <bowler>J Adderley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>FS Crockwell</batsman>
+          <wickets>
+            <wicket>
+              <player_out>FS Crockwell</player_out>
+              <fielders>
+                <fielder>NH Ekanayake</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <bowler>J Adderley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <bowler>J Adderley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <bowler>J Adderley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <bowler>J Adderley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <non_striker>SD Outerbridge</non_striker>
+          <bowler>J Adderley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <non_striker>J Edness</non_striker>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <bowler>J Adderley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <bowler>J Adderley</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>J Edness</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <bowler>J Adderley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <bowler>J Adderley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <bowler>J Adderley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <bowler>J Adderley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <bowler>J Adderley</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>8</ball>
+          <non_striker>SD Outerbridge</non_striker>
+          <bowler>J Adderley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <non_striker>J Edness</non_striker>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>7</ball>
+          <non_striker>J Edness</non_striker>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>3</total>
+            <batsman>3</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <non_striker>SD Outerbridge</non_striker>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <non_striker>J Edness</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>7</ball>
+          <non_striker>SD Outerbridge</non_striker>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>J Edness</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>J Edness</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>7</ball>
+          <non_striker>J Edness</non_striker>
+          <bowler>G Irvin</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <bowler>DG Weakley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <bowler>DG Weakley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <bowler>DG Weakley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <bowler>DG Weakley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <bowler>DG Weakley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <non_striker>SD Outerbridge</non_striker>
+          <bowler>DG Weakley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <bowler>M Taylor</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <bowler>M Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <bowler>M Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <bowler>M Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <bowler>M Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <bowler>M Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>7</ball>
+          <bowler>M Taylor</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>2</total>
+            <batsman>1</batsman>
+          </runs>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>J Edness</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>8</ball>
+          <non_striker>J Edness</non_striker>
+          <bowler>M Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <non_striker>SD Outerbridge</non_striker>
+          <bowler>DG Weakley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>J Edness</batsman>
+          <wickets>
+            <wicket>
+              <player_out>J Edness</player_out>
+              <fielders>
+                <fielder>R Parkes</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <bowler>DG Weakley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <bowler>DG Weakley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <bowler>DG Weakley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <bowler>DG Weakley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <non_striker>SD Outerbridge</non_striker>
+          <bowler>DG Weakley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <bowler>M Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <bowler>M Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <bowler>M Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <bowler>M Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <bowler>M Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <non_striker>DL Hemp</non_striker>
+          <bowler>M Taylor</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <bowler>DG Weakley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <bowler>DG Weakley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <bowler>DG Weakley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <bowler>DG Weakley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <bowler>DG Weakley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <non_striker>DL Hemp</non_striker>
+          <bowler>DG Weakley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <non_striker>DL Hemp</non_striker>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <bowler>DG Weakley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <bowler>DG Weakley</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <bowler>DG Weakley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <bowler>DG Weakley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <bowler>DG Weakley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <bowler>DG Weakley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>7</ball>
+          <non_striker>SD Outerbridge</non_striker>
+          <bowler>DG Weakley</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <non_striker>DL Hemp</non_striker>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>SD Outerbridge</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>7</ball>
+          <non_striker>DL Hemp</non_striker>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>SD Outerbridge</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <non_striker>DL Hemp</non_striker>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SD Outerbridge</batsman>
+          <wickets>
+            <wicket>
+              <player_out>SD Outerbridge</player_out>
+              <fielders>
+                <fielder>R Parkes</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>3</total>
+            <batsman>3</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>JJ Tucker</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <non_striker>DL Hemp</non_striker>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>1</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>JJ Tucker</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>2</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>JJ Tucker</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>3</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>4</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>5</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>6</ball>
+          <non_striker>DL Hemp</non_striker>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>1</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>JJ Tucker</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>2</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>JJ Tucker</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>3</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>JJ Tucker</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>4</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>JJ Tucker</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>5</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>JJ Tucker</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>6</ball>
+          <non_striker>DL Hemp</non_striker>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>1</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>JJ Tucker</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>2</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>3</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>4</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>JJ Tucker</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>5</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>3</total>
+            <batsman>3</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>6</ball>
+          <non_striker>JJ Tucker</non_striker>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>1</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>2</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>3</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>JJ Tucker</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>4</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>2</extras>
+            <total>2</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>2</legbyes>
+          </extras>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>5</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>6</ball>
+          <non_striker>DL Hemp</non_striker>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>1</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <non_striker>JJ Tucker</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>2</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>JJ Tucker</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>3</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>JJ Tucker</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>4</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>5</ball>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>6</ball>
+          <non_striker>DL Hemp</non_striker>
+          <bowler>A Peters</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>1</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>JJ Tucker</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>2</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>3</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>4</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>JJ Tucker</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>5</ball>
+          <non_striker>JJ Tucker</non_striker>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>6</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>JJ Tucker</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>7</ball>
+          <non_striker>JJ Tucker</non_striker>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>1</ball>
+          <bowler>JR Barry</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>2</ball>
+          <bowler>JR Barry</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>3</ball>
+          <bowler>JR Barry</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>4</ball>
+          <bowler>JR Barry</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>5</ball>
+          <bowler>JR Barry</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>6</ball>
+          <bowler>JR Barry</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>7</ball>
+          <non_striker>DL Hemp</non_striker>
+          <bowler>JR Barry</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>1</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>JJ Tucker</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>2</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>JJ Tucker</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>3</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>JJ Tucker</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>4</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>5</ball>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <non_striker>JJ Tucker</non_striker>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>6</ball>
+          <non_striker>JJ Tucker</non_striker>
+          <bowler>NH Ekanayake</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>DL Hemp</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>1</ball>
+          <bowler>JR Barry</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>2</ball>
+          <bowler>JR Barry</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>2</total>
+            <batsman>1</batsman>
+          </runs>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <non_striker>DL Hemp</non_striker>
+          <batsman>JJ Tucker</batsman>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>
