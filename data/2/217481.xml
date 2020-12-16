@@ -1,0 +1,5880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricsheet>
+  <meta>
+    <data_version>0.9</data_version>
+    <created>2020-12-11</created>
+    <revision>1</revision>
+  </meta>
+  <info>
+    <dates>
+      <date>2005-08-29</date>
+    </dates>
+    <gender>male</gender>
+    <match_type>ODI</match_type>
+    <match_type_number>2274</match_type_number>
+    <outcome>
+      <winner>India</winner>
+      <by>
+        <runs>161</runs>
+      </by>
+    </outcome>
+    <overs>50</overs>
+    <player_of_match>
+      <player_of_match>IK Pathan</player_of_match>
+    </player_of_match>
+    <supersubs>
+      <supersub>
+        <team>Zimbabwe</team>
+        <player>V Sibanda</player>
+      </supersub>
+    </supersubs>
+    <teams>
+      <team>India</team>
+      <team>Zimbabwe</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Zimbabwe</winner>
+    </toss>
+    <umpires>
+      <umpire>IL Howell</umpire>
+      <umpire>KC Barbour</umpire>
+    </umpires>
+    <venue>Harare Sports Club</venue>
+  </info>
+  <innings>
+    <inning>
+      <inningsNumber>1</inningsNumber>
+      <team>India</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <non_striker>Y Venugopal Rao</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <non_striker>Y Venugopal Rao</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <non_striker>Y Venugopal Rao</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Y Venugopal Rao</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>Y Venugopal Rao</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Y Venugopal Rao</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>7</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Y Venugopal Rao</batsman>
+          <wickets>
+            <wicket>
+              <player_out>Y Venugopal Rao</player_out>
+              <fielders>
+                <fielder>T Taibu</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>8</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>9</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>NB Mahwire</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>NB Mahwire</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>NB Mahwire</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>NB Mahwire</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>NB Mahwire</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>NB Mahwire</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>NB Mahwire</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>NB Mahwire</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>NB Mahwire</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>NB Mahwire</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>NB Mahwire</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>NB Mahwire</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>7</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>NB Mahwire</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>NB Mahwire</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>NB Mahwire</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>NB Mahwire</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>NB Mahwire</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>NB Mahwire</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>NB Mahwire</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>NB Mahwire</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>NB Mahwire</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>NB Mahwire</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>NB Mahwire</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>NB Mahwire</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>7</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <non_striker>SC Ganguly</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SC Ganguly</batsman>
+          <wickets>
+            <wicket>
+              <player_out>SC Ganguly</player_out>
+              <fielders>
+                <fielder>GM Ewing</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>7</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>8</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>9</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>10</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>1</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>2</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>3</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>4</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>5</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>6</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>1</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>2</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>3</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>4</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>5</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>6</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>1</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>2</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>3</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>4</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>5</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>6</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>1</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>2</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>3</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>4</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>5</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>6</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>7</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>1</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>2</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>3</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>4</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>3</total>
+            <batsman>3</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>5</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>6</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>1</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>2</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>3</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>4</ball>
+          <non_striker>R Dravid</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>5</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+        </delivery>
+        <delivery>
+          <over>25</over>
+          <ball>6</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>R Dravid</batsman>
+          <wickets>
+            <wicket>
+              <player_out>R Dravid</player_out>
+              <kind>bowled</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>1</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>2</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>3</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>4</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>5</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>26</over>
+          <ball>6</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>1</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>2</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>3</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>4</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>5</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>27</over>
+          <ball>6</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>1</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>2</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>3</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>4</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>5</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>28</over>
+          <ball>6</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>1</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>2</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>3</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>4</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>5</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>29</over>
+          <ball>6</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>1</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>2</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>3</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>4</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>5</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>30</over>
+          <ball>6</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>1</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>2</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>3</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>4</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>5</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>31</over>
+          <ball>6</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>1</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>2</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>3</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>4</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>5</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>32</over>
+          <ball>6</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>1</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>2</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>3</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>4</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>5</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>33</over>
+          <ball>6</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>1</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>2</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>3</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>4</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>5</ball>
+          <non_striker>M Kaif</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>34</over>
+          <ball>6</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>M Kaif</batsman>
+          <wickets>
+            <wicket>
+              <player_out>M Kaif</player_out>
+              <kind>caught and bowled</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>1</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>2</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>3</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>4</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>5</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>35</over>
+          <ball>6</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>1</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>2</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>3</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>4</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>5</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>36</over>
+          <ball>6</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>1</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>2</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>3</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>4</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>5</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>37</over>
+          <ball>6</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>1</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>2</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>3</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>4</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>5</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>38</over>
+          <ball>6</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>1</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>2</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>3</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>4</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>5</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>39</over>
+          <ball>6</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>P Utseya</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>1</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>2</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>3</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>4</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>5</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>40</over>
+          <ball>6</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>GM Ewing</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>1</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>2</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>3</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>4</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>5</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>41</over>
+          <ball>6</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>1</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>2</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>3</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>4</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>5</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>42</over>
+          <ball>6</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>1</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>2</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>3</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>4</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>5</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>6</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>43</over>
+          <ball>7</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>44</over>
+          <ball>1</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>44</over>
+          <ball>2</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>44</over>
+          <ball>3</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>44</over>
+          <ball>4</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>44</over>
+          <ball>5</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>44</over>
+          <ball>6</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>45</over>
+          <ball>1</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>45</over>
+          <ball>2</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>45</over>
+          <ball>3</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>45</over>
+          <ball>4</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>45</over>
+          <ball>5</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>45</over>
+          <ball>6</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>46</over>
+          <ball>1</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>46</over>
+          <ball>2</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>46</over>
+          <ball>3</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>46</over>
+          <ball>4</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>46</over>
+          <ball>5</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>46</over>
+          <ball>6</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>47</over>
+          <ball>1</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>47</over>
+          <ball>2</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>47</over>
+          <ball>3</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>47</over>
+          <ball>4</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>47</over>
+          <ball>5</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>47</over>
+          <ball>6</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>47</over>
+          <ball>7</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>AM Blignaut</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>48</over>
+          <ball>1</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>48</over>
+          <ball>2</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>48</over>
+          <ball>3</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>48</over>
+          <ball>4</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>48</over>
+          <ball>5</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>48</over>
+          <ball>6</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>HH Streak</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+        </delivery>
+        <delivery>
+          <over>49</over>
+          <ball>1</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>6</total>
+            <batsman>6</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>49</over>
+          <ball>2</ball>
+          <non_striker>MS Dhoni</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>49</over>
+          <ball>3</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>MS Dhoni</batsman>
+          <wickets>
+            <wicket>
+              <player_out>MS Dhoni</player_out>
+              <fielders>
+                <fielder>NB Mahwire</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>49</over>
+          <ball>4</ball>
+          <non_striker>AB Agarkar</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+        <delivery>
+          <over>49</over>
+          <ball>5</ball>
+          <non_striker>Yuvraj Singh</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AB Agarkar</batsman>
+          <wickets>
+            <wicket>
+              <player_out>AB Agarkar</player_out>
+              <fielders>
+                <fielder>HH Streak</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>49</over>
+          <ball>6</ball>
+          <non_striker>Jai Prakash Yadav</non_striker>
+          <bowler>AJ Ireland</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>Yuvraj Singh</batsman>
+        </delivery>
+      </deliveries>
+    </inning>
+    <inning>
+      <inningsNumber>2</inningsNumber>
+      <team>Zimbabwe</team>
+      <deliveries>
+        <delivery>
+          <over>0</over>
+          <ball>1</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>BRM Taylor</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>2</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>3</total>
+            <batsman>3</batsman>
+          </runs>
+          <batsman>BRM Taylor</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>3</ball>
+          <non_striker>BRM Taylor</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SV Carlisle</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>4</ball>
+          <non_striker>BRM Taylor</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SV Carlisle</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>5</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>BRM Taylor</batsman>
+        </delivery>
+        <delivery>
+          <over>0</over>
+          <ball>6</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>BRM Taylor</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>1</ball>
+          <non_striker>BRM Taylor</non_striker>
+          <bowler>A Nehra</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>SV Carlisle</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>2</ball>
+          <non_striker>BRM Taylor</non_striker>
+          <bowler>A Nehra</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SV Carlisle</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>3</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>A Nehra</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>BRM Taylor</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>4</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>A Nehra</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>BRM Taylor</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>5</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>A Nehra</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>BRM Taylor</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>6</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>A Nehra</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>BRM Taylor</batsman>
+        </delivery>
+        <delivery>
+          <over>1</over>
+          <ball>7</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>A Nehra</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>BRM Taylor</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>1</ball>
+          <non_striker>BRM Taylor</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SV Carlisle</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>2</ball>
+          <non_striker>BRM Taylor</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>SV Carlisle</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>3</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>BRM Taylor</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>4</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>BRM Taylor</batsman>
+          <wickets>
+            <wicket>
+              <player_out>BRM Taylor</player_out>
+              <kind>bowled</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>5</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <replacements>
+            <match>
+              <match>
+                <in>V Sibanda</in>
+                <out>AJ Ireland</out>
+                <team>Zimbabwe</team>
+                <reason>supersub</reason>
+              </match>
+            </match>
+          </replacements>
+          <batsman>V Sibanda</batsman>
+        </delivery>
+        <delivery>
+          <over>2</over>
+          <ball>6</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>V Sibanda</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>1</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>A Nehra</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>V Sibanda</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>2</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>A Nehra</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>V Sibanda</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>3</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>A Nehra</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>V Sibanda</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>4</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>A Nehra</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>V Sibanda</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>5</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>A Nehra</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>V Sibanda</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>6</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>A Nehra</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>V Sibanda</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>7</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>A Nehra</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>V Sibanda</batsman>
+        </delivery>
+        <delivery>
+          <over>3</over>
+          <ball>8</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>A Nehra</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>V Sibanda</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>1</ball>
+          <non_striker>V Sibanda</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SV Carlisle</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>2</ball>
+          <non_striker>V Sibanda</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SV Carlisle</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>3</ball>
+          <non_striker>V Sibanda</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SV Carlisle</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>4</ball>
+          <non_striker>V Sibanda</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SV Carlisle</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>5</ball>
+          <non_striker>V Sibanda</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SV Carlisle</batsman>
+        </delivery>
+        <delivery>
+          <over>4</over>
+          <ball>6</ball>
+          <non_striker>V Sibanda</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SV Carlisle</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>1</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>A Nehra</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>V Sibanda</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>2</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>A Nehra</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>V Sibanda</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>3</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>A Nehra</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>V Sibanda</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>4</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>A Nehra</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>V Sibanda</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>5</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>A Nehra</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>V Sibanda</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>6</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>A Nehra</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>V Sibanda</batsman>
+        </delivery>
+        <delivery>
+          <over>5</over>
+          <ball>7</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>A Nehra</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>V Sibanda</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>1</ball>
+          <non_striker>V Sibanda</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SV Carlisle</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>2</ball>
+          <non_striker>V Sibanda</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SV Carlisle</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>3</ball>
+          <non_striker>V Sibanda</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SV Carlisle</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>4</ball>
+          <non_striker>V Sibanda</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SV Carlisle</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>5</ball>
+          <non_striker>V Sibanda</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SV Carlisle</batsman>
+        </delivery>
+        <delivery>
+          <over>6</over>
+          <ball>6</ball>
+          <non_striker>V Sibanda</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SV Carlisle</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>1</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>V Sibanda</batsman>
+          <wickets>
+            <wicket>
+              <player_out>V Sibanda</player_out>
+              <kind>caught and bowled</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>2</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Masakadza</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>3</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>H Masakadza</batsman>
+          <wickets>
+            <wicket>
+              <player_out>H Masakadza</player_out>
+              <kind>lbw</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>4</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>T Taibu</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>5</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>T Taibu</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>6</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>T Taibu</batsman>
+        </delivery>
+        <delivery>
+          <over>7</over>
+          <ball>7</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>T Taibu</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>1</ball>
+          <non_striker>T Taibu</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>SV Carlisle</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>2</ball>
+          <non_striker>T Taibu</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>SV Carlisle</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>3</ball>
+          <non_striker>T Taibu</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>SV Carlisle</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>4</ball>
+          <non_striker>T Taibu</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SV Carlisle</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>5</ball>
+          <non_striker>T Taibu</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SV Carlisle</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>6</ball>
+          <non_striker>T Taibu</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SV Carlisle</batsman>
+        </delivery>
+        <delivery>
+          <over>8</over>
+          <ball>7</ball>
+          <non_striker>T Taibu</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SV Carlisle</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>1</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>T Taibu</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>2</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>T Taibu</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>3</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>T Taibu</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>4</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>T Taibu</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>5</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>T Taibu</batsman>
+        </delivery>
+        <delivery>
+          <over>9</over>
+          <ball>6</ball>
+          <non_striker>SV Carlisle</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>T Taibu</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>1</ball>
+          <non_striker>T Taibu</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>SV Carlisle</batsman>
+          <wickets>
+            <wicket>
+              <player_out>SV Carlisle</player_out>
+              <kind>lbw</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>2</ball>
+          <non_striker>T Taibu</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>3</ball>
+          <non_striker>T Taibu</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>4</ball>
+          <non_striker>T Taibu</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>5</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>T Taibu</batsman>
+        </delivery>
+        <delivery>
+          <over>10</over>
+          <ball>6</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>T Taibu</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>1</ball>
+          <non_striker>T Taibu</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>2</ball>
+          <non_striker>T Taibu</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>3</ball>
+          <non_striker>T Taibu</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>4</ball>
+          <non_striker>T Taibu</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>5</ball>
+          <non_striker>T Taibu</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>11</over>
+          <ball>6</ball>
+          <non_striker>T Taibu</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>1</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>T Taibu</batsman>
+          <wickets>
+            <wicket>
+              <player_out>T Taibu</player_out>
+              <fielders>
+                <fielder>SC Ganguly</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>2</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CK Coventry</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>3</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>CK Coventry</batsman>
+          <wickets>
+            <wicket>
+              <player_out>CK Coventry</player_out>
+              <kind>bowled</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>4</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AM Blignaut</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>5</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AM Blignaut</batsman>
+        </delivery>
+        <delivery>
+          <over>12</over>
+          <ball>6</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AM Blignaut</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>1</ball>
+          <non_striker>AM Blignaut</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>2</ball>
+          <non_striker>AM Blignaut</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>3</ball>
+          <non_striker>AM Blignaut</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>4</ball>
+          <non_striker>AM Blignaut</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>5</ball>
+          <non_striker>AM Blignaut</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>13</over>
+          <ball>6</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>AM Blignaut</batsman>
+          <wickets>
+            <wicket>
+              <player_out>AM Blignaut</player_out>
+              <kind>lbw</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>1</ball>
+          <non_striker>GM Ewing</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>2</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>GM Ewing</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>3</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>GM Ewing</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>4</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>GM Ewing</batsman>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>5</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>GM Ewing</batsman>
+          <wickets>
+            <wicket>
+              <player_out>GM Ewing</player_out>
+              <kind>bowled</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>14</over>
+          <ball>6</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NB Mahwire</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>1</ball>
+          <non_striker>NB Mahwire</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>2</ball>
+          <non_striker>NB Mahwire</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>3</ball>
+          <non_striker>NB Mahwire</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>4</ball>
+          <non_striker>NB Mahwire</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>5</ball>
+          <non_striker>NB Mahwire</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>15</over>
+          <ball>6</ball>
+          <non_striker>NB Mahwire</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>1</ball>
+          <non_striker>NB Mahwire</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>2</ball>
+          <non_striker>NB Mahwire</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>3</ball>
+          <non_striker>NB Mahwire</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>4</ball>
+          <non_striker>NB Mahwire</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>5</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NB Mahwire</batsman>
+        </delivery>
+        <delivery>
+          <over>16</over>
+          <ball>6</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>NB Mahwire</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>1</ball>
+          <non_striker>NB Mahwire</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>2</ball>
+          <non_striker>NB Mahwire</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>3</ball>
+          <non_striker>NB Mahwire</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>4</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>NB Mahwire</batsman>
+          <wickets>
+            <wicket>
+              <player_out>NB Mahwire</player_out>
+              <kind>bowled</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>5</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>P Utseya</batsman>
+        </delivery>
+        <delivery>
+          <over>17</over>
+          <ball>6</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>2</total>
+            <batsman>2</batsman>
+          </runs>
+          <batsman>P Utseya</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>1</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>2</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>3</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>4</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <wides>1</wides>
+          </extras>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>5</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>6</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>P Utseya</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>7</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>P Utseya</batsman>
+        </delivery>
+        <delivery>
+          <over>18</over>
+          <ball>8</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>IK Pathan</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>P Utseya</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>1</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>2</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>1</extras>
+            <total>1</total>
+            <batsman>0</batsman>
+          </runs>
+          <extras>
+            <noballs>1</noballs>
+          </extras>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>3</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>4</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>5</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>6</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>19</over>
+          <ball>7</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>1</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>Harbhajan Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>2</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>Harbhajan Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>3</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>Harbhajan Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>4</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>Harbhajan Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>P Utseya</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>5</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>Harbhajan Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>P Utseya</batsman>
+        </delivery>
+        <delivery>
+          <over>20</over>
+          <ball>6</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>Harbhajan Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>P Utseya</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>1</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>2</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>3</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>4</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>5</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>21</over>
+          <ball>6</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>1</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>Harbhajan Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>P Utseya</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>2</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>Harbhajan Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>P Utseya</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>3</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>Harbhajan Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>P Utseya</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>4</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>Harbhajan Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>P Utseya</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>5</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>Harbhajan Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>P Utseya</batsman>
+        </delivery>
+        <delivery>
+          <over>22</over>
+          <ball>6</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>Harbhajan Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>P Utseya</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>1</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>2</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>3</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>1</total>
+            <batsman>1</batsman>
+          </runs>
+          <batsman>P Utseya</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>4</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>5</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>23</over>
+          <ball>6</ball>
+          <non_striker>P Utseya</non_striker>
+          <bowler>AB Agarkar</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>HH Streak</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>1</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>Harbhajan Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>P Utseya</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>2</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>Harbhajan Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>4</total>
+            <batsman>4</batsman>
+          </runs>
+          <batsman>P Utseya</batsman>
+        </delivery>
+        <delivery>
+          <over>24</over>
+          <ball>3</ball>
+          <non_striker>HH Streak</non_striker>
+          <bowler>Harbhajan Singh</bowler>
+          <runs>
+            <extras>0</extras>
+            <total>0</total>
+            <batsman>0</batsman>
+          </runs>
+          <batsman>P Utseya</batsman>
+          <wickets>
+            <wicket>
+              <player_out>P Utseya</player_out>
+              <fielders>
+                <fielder>R Dravid</fielder>
+              </fielders>
+              <kind>caught</kind>
+            </wicket>
+          </wickets>
+        </delivery>
+      </deliveries>
+    </inning>
+  </innings>
+</cricsheet>
