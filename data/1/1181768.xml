@@ -6,36 +6,36 @@
     <revision>1</revision>
   </meta>
   <info>
-    <venue>Rajiv Gandhi International Stadium, Uppal</venue>
+    <city>Hyderabad</city>
     <competition>IPL</competition>
     <dates>
       <date>2019-05-12</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Mumbai Indians</team>
-      <team>Chennai Super Kings</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Mumbai Indians</winner>
       <by>
         <runs>1</runs>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>JJ Bumrah</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Mumbai Indians</team>
+      <team>Chennai Super Kings</team>
+    </teams>
     <toss>
       <decision>bat</decision>
       <winner>Mumbai Indians</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>JJ Bumrah</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Hyderabad</city>
     <umpires>
       <umpire>IJ Gould</umpire>
       <umpire>Nitin Menon</umpire>
     </umpires>
+    <venue>Rajiv Gandhi International Stadium</venue>
   </info>
   <innings>
     <inning>

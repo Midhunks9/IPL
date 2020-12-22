@@ -6,36 +6,36 @@
     <revision>1</revision>
   </meta>
   <info>
-    <venue>Wankhede Stadium</venue>
+    <city>Mumbai</city>
     <competition>IPL</competition>
     <dates>
       <date>2018-04-14</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Mumbai Indians</team>
-      <team>Delhi Daredevils</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Delhi Daredevils</winner>
       <by>
         <wickets>7</wickets>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>JJ Roy</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Mumbai Indians</team>
+      <team>Delhi Daredevils</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Delhi Daredevils</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>JJ Roy</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Mumbai</city>
     <umpires>
       <umpire>KN Ananthapadmanabhan</umpire>
       <umpire>Nitin Menon</umpire>
     </umpires>
+    <venue>Wankhede Stadium</venue>
   </info>
   <innings>
     <inning>
@@ -2603,10 +2603,7 @@
           <wickets>
             <wicket>
               <player_out>GJ Maxwell</player_out>
-              <fielders>
-                <fielder>HH Pandya</fielder>
-              </fielders>
-              <kind>caught</kind>
+              <kind>caught and bowled</kind>
             </wicket>
           </wickets>
         </delivery>

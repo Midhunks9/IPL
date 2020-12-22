@@ -6,36 +6,36 @@
     <revision>1</revision>
   </meta>
   <info>
-    <venue>Wankhede Stadium</venue>
+    <city>Mumbai</city>
     <competition>IPL</competition>
     <dates>
       <date>2019-05-05</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Mumbai Indians</team>
-      <team>Kolkata Knight Riders</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Mumbai Indians</winner>
       <by>
         <wickets>9</wickets>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>HH Pandya</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Kolkata Knight Riders</team>
+      <team>Mumbai Indians</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Mumbai Indians</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>HH Pandya</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Mumbai</city>
     <umpires>
       <umpire>A Nand Kishore</umpire>
       <umpire>CK Nandan</umpire>
     </umpires>
+    <venue>Wankhede Stadium</venue>
   </info>
   <innings>
     <inning>

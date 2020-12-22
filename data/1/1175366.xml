@@ -3,39 +3,39 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2019-04-14</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
-    <venue>Rajiv Gandhi International Stadium, Uppal</venue>
+    <city>Hyderabad</city>
     <competition>IPL</competition>
     <dates>
       <date>2019-03-31</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Sunrisers Hyderabad</team>
-      <team>Royal Challengers Bangalore</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Sunrisers Hyderabad</winner>
       <by>
         <runs>118</runs>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>JM Bairstow</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Sunrisers Hyderabad</team>
+      <team>Royal Challengers Bangalore</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Royal Challengers Bangalore</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>JM Bairstow</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Hyderabad</city>
     <umpires>
       <umpire>KN Ananthapadmanabhan</umpire>
       <umpire>S Ravi</umpire>
     </umpires>
+    <venue>Rajiv Gandhi International Stadium</venue>
   </info>
   <innings>
     <inning>

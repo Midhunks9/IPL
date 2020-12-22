@@ -6,36 +6,36 @@
     <revision>1</revision>
   </meta>
   <info>
-    <venue>Punjab Cricket Association IS Bindra Stadium, Mohali</venue>
+    <city>Chandigarh</city>
     <competition>IPL</competition>
     <dates>
       <date>2019-05-05</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Kings XI Punjab</team>
-      <team>Chennai Super Kings</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Kings XI Punjab</winner>
       <by>
         <wickets>6</wickets>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>KL Rahul</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Chennai Super Kings</team>
+      <team>Kings XI Punjab</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Kings XI Punjab</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>KL Rahul</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Chandigarh</city>
     <umpires>
-      <umpire>KN Ananthapadmanabhan</umpire>
       <umpire>C Shamshuddin</umpire>
+      <umpire>KN Ananthapadmanabhan</umpire>
     </umpires>
+    <venue>Punjab Cricket Association IS Bindra Stadium</venue>
   </info>
   <innings>
     <inning>
@@ -2605,6 +2605,7 @@
           <bowler>DJ Bravo</bowler>
           <runs>
             <extras>0</extras>
+            <non_boundary>1</non_boundary>
             <total>4</total>
             <batsman>4</batsman>
           </runs>

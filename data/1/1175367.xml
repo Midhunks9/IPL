@@ -3,39 +3,39 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2019-04-15</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
-    <venue>MA Chidambaram Stadium, Chepauk</venue>
+    <city>Chennai</city>
     <competition>IPL</competition>
     <dates>
       <date>2019-03-31</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Chennai Super Kings</team>
-      <team>Rajasthan Royals</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Chennai Super Kings</winner>
       <by>
         <runs>8</runs>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>MS Dhoni</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Chennai Super Kings</team>
+      <team>Rajasthan Royals</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Rajasthan Royals</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>MS Dhoni</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Chennai</city>
     <umpires>
-      <umpire>YC Barde</umpire>
       <umpire>CK Nandan</umpire>
+      <umpire>YC Barde</umpire>
     </umpires>
+    <venue>MA Chidambaram Stadium</venue>
   </info>
   <innings>
     <inning>

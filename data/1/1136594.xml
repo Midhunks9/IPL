@@ -6,36 +6,36 @@
     <revision>1</revision>
   </meta>
   <info>
-    <venue>Holkar Cricket Stadium</venue>
+    <city>Indore</city>
     <competition>IPL</competition>
     <dates>
       <date>2018-05-04</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Kings XI Punjab</team>
-      <team>Mumbai Indians</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Mumbai Indians</winner>
       <by>
         <wickets>6</wickets>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>SA Yadav</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Kings XI Punjab</team>
+      <team>Mumbai Indians</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Mumbai Indians</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>SA Yadav</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Indore</city>
     <umpires>
       <umpire>AY Dandekar</umpire>
       <umpire>S Ravi</umpire>
     </umpires>
+    <venue>Holkar Cricket Stadium</venue>
   </info>
   <innings>
     <inning>
@@ -1583,10 +1583,7 @@
           <wickets>
             <wicket>
               <player_out>MA Agarwal</player_out>
-              <fielders>
-                <fielder>KH Pandya</fielder>
-              </fielders>
-              <kind>caught</kind>
+              <kind>caught and bowled</kind>
             </wicket>
           </wickets>
         </delivery>

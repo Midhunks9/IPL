@@ -3,18 +3,16 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2019-06-16</created>
-    <revision>2</revision>
+    <revision>3</revision>
   </meta>
   <info>
-    <venue>County Ground</venue>
+    <city>Chelmsford</city>
     <dates>
       <date>2019-06-13</date>
     </dates>
     <gender>female</gender>
-    <teams>
-      <team>England</team>
-      <team>West Indies</team>
-    </teams>
+    <match_type>ODI</match_type>
+    <match_type_number>1157</match_type_number>
     <outcome>
       <winner>England</winner>
       <by>
@@ -22,21 +20,23 @@
       </by>
       <method>D/L</method>
     </outcome>
+    <overs>50</overs>
+    <player_of_match>
+      <player_of_match>AE Jones</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>England</team>
+      <team>West Indies</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>West Indies</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>AE Jones</player_of_match>
-    </player_of_match>
-    <match_type>ODI</match_type>
-    <match_type_number>1157</match_type_number>
-    <overs>50</overs>
-    <city>Chelmsford</city>
     <umpires>
       <umpire>DJ Millns</umpire>
       <umpire>S Redfern</umpire>
     </umpires>
+    <venue>County Ground</venue>
   </info>
   <innings>
     <inning>

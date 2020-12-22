@@ -6,36 +6,36 @@
     <revision>1</revision>
   </meta>
   <info>
-    <venue>Holkar Cricket Stadium</venue>
+    <city>Indore</city>
     <competition>IPL</competition>
     <dates>
       <date>2018-05-12</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Kings XI Punjab</team>
-      <team>Kolkata Knight Riders</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Kolkata Knight Riders</winner>
       <by>
         <runs>31</runs>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>SP Narine</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Kolkata Knight Riders</team>
+      <team>Kings XI Punjab</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Kings XI Punjab</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>SP Narine</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Indore</city>
     <umpires>
-      <umpire>VK Sharma</umpire>
       <umpire>CK Nandan</umpire>
+      <umpire>VK Sharma</umpire>
     </umpires>
+    <venue>Holkar Cricket Stadium</venue>
   </info>
   <innings>
     <inning>

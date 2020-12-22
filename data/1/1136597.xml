@@ -6,36 +6,36 @@
     <revision>1</revision>
   </meta>
   <info>
-    <venue>Wankhede Stadium</venue>
+    <city>Mumbai</city>
     <competition>IPL</competition>
     <dates>
       <date>2018-05-06</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Mumbai Indians</team>
-      <team>Kolkata Knight Riders</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Mumbai Indians</winner>
       <by>
         <runs>13</runs>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>HH Pandya</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Mumbai Indians</team>
+      <team>Kolkata Knight Riders</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Kolkata Knight Riders</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>HH Pandya</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Mumbai</city>
     <umpires>
-      <umpire>HDPK Dharmasena</umpire>
       <umpire>A Deshmukh</umpire>
+      <umpire>HDPK Dharmasena</umpire>
     </umpires>
+    <venue>Wankhede Stadium</venue>
   </info>
   <innings>
     <inning>
@@ -1844,10 +1844,7 @@
           <wickets>
             <wicket>
               <player_out>Shubman Gill</player_out>
-              <fielders>
-                <fielder>KH Pandya</fielder>
-              </fielders>
-              <kind>caught</kind>
+              <kind>caught and bowled</kind>
             </wicket>
           </wickets>
         </delivery>

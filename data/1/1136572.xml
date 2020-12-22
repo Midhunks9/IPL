@@ -6,36 +6,36 @@
     <revision>1</revision>
   </meta>
   <info>
-    <venue>Punjab Cricket Association IS Bindra Stadium, Mohali</venue>
+    <city>Chandigarh</city>
     <competition>IPL</competition>
     <dates>
       <date>2018-04-15</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Kings XI Punjab</team>
-      <team>Chennai Super Kings</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Kings XI Punjab</winner>
       <by>
         <runs>4</runs>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>CH Gayle</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Kings XI Punjab</team>
+      <team>Chennai Super Kings</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Chennai Super Kings</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>CH Gayle</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Chandigarh</city>
     <umpires>
-      <umpire>VA Kulkarni</umpire>
       <umpire>CK Nandan</umpire>
+      <umpire>VA Kulkarni</umpire>
     </umpires>
+    <venue>Punjab Cricket Association IS Bindra Stadium</venue>
   </info>
   <innings>
     <inning>

@@ -6,34 +6,34 @@
     <revision>1</revision>
   </meta>
   <info>
-    <venue>Wankhede Stadium</venue>
+    <city>Mumbai</city>
     <competition>IPL</competition>
     <dates>
       <date>2019-05-02</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Mumbai Indians</team>
-      <team>Sunrisers Hyderabad</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <result>tie</result>
       <eliminator>Mumbai Indians</eliminator>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>JJ Bumrah</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Mumbai Indians</team>
+      <team>Sunrisers Hyderabad</team>
+    </teams>
     <toss>
       <decision>bat</decision>
       <winner>Mumbai Indians</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>JJ Bumrah</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Mumbai</city>
     <umpires>
       <umpire>CK Nandan</umpire>
       <umpire>S Ravi</umpire>
     </umpires>
+    <venue>Wankhede Stadium</venue>
   </info>
   <innings>
     <inning>

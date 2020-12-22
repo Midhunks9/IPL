@@ -6,36 +6,36 @@
     <revision>1</revision>
   </meta>
   <info>
-    <venue>Maharashtra Cricket Association Stadium</venue>
+    <city>Pune</city>
     <competition>IPL</competition>
     <dates>
       <date>2018-04-28</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Chennai Super Kings</team>
-      <team>Mumbai Indians</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Mumbai Indians</winner>
       <by>
         <wickets>8</wickets>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>RG Sharma</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Chennai Super Kings</team>
+      <team>Mumbai Indians</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Mumbai Indians</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>RG Sharma</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Pune</city>
     <umpires>
       <umpire>CB Gaffaney</umpire>
       <umpire>Nitin Menon</umpire>
     </umpires>
+    <venue>Maharashtra Cricket Association Stadium</venue>
   </info>
   <innings>
     <inning>

@@ -3,39 +3,39 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2019-04-22</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
-    <venue>Docklands Stadium</venue>
+    <city>Melbourne</city>
     <competition>Big Bash League</competition>
     <dates>
       <date>2017-12-29</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Melbourne Renegades</team>
-      <team>Perth Scorchers</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Perth Scorchers</winner>
       <by>
         <wickets>3</wickets>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>MG Johnson</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Melbourne Renegades</team>
+      <team>Perth Scorchers</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Perth Scorchers</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>MG Johnson</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Melbourne</city>
     <umpires>
       <umpire>PJ Gillespie</umpire>
       <umpire>AK Wilds</umpire>
     </umpires>
+    <venue>Docklands Stadium</venue>
   </info>
   <innings>
     <inning>
@@ -1823,6 +1823,7 @@
           <runs>
             <extras>0</extras>
             <total>4</total>
+            <non_boundary>1</non_boundary>
             <batsman>4</batsman>
           </runs>
           <batsman>M Klinger</batsman>

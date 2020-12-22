@@ -3,39 +3,39 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2019-04-16</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
-    <venue>Feroz Shah Kotla</venue>
+    <city>Delhi</city>
     <competition>IPL</competition>
     <dates>
       <date>2019-04-04</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Delhi Capitals</team>
-      <team>Sunrisers Hyderabad</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Sunrisers Hyderabad</winner>
       <by>
         <wickets>5</wickets>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>JM Bairstow</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Delhi Capitals</team>
+      <team>Sunrisers Hyderabad</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Sunrisers Hyderabad</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>JM Bairstow</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Delhi</city>
     <umpires>
-      <umpire>KN Ananthapadmanabhan</umpire>
       <umpire>C Shamshuddin</umpire>
+      <umpire>KN Ananthapadmanabhan</umpire>
     </umpires>
+    <venue>Arun Jaitley Stadium</venue>
   </info>
   <innings>
     <inning>

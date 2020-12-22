@@ -3,39 +3,39 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2019-04-14</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
-    <venue>Punjab Cricket Association IS Bindra Stadium, Mohali</venue>
+    <city>Chandigarh</city>
     <competition>IPL</competition>
     <dates>
       <date>2019-03-30</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Kings XI Punjab</team>
-      <team>Mumbai Indians</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Kings XI Punjab</winner>
       <by>
         <wickets>8</wickets>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>MA Agarwal</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Mumbai Indians</team>
+      <team>Kings XI Punjab</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Kings XI Punjab</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>MA Agarwal</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Chandigarh</city>
     <umpires>
-      <umpire>VA Kulkarni</umpire>
       <umpire>CB Gaffaney</umpire>
+      <umpire>VA Kulkarni</umpire>
     </umpires>
+    <venue>Punjab Cricket Association IS Bindra Stadium</venue>
   </info>
   <innings>
     <inning>
@@ -2156,10 +2156,7 @@
           <wickets>
             <wicket>
               <player_out>CH Gayle</player_out>
-              <fielders>
-                <fielder>HH Pandya</fielder>
-              </fielders>
-              <kind>caught</kind>
+              <kind>caught and bowled</kind>
             </wicket>
           </wickets>
         </delivery>

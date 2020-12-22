@@ -6,36 +6,36 @@
     <revision>1</revision>
   </meta>
   <info>
-    <venue>Eden Gardens</venue>
+    <city>Kolkata</city>
     <competition>IPL</competition>
     <dates>
       <date>2018-04-08</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Kolkata Knight Riders</team>
-      <team>Royal Challengers Bangalore</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Kolkata Knight Riders</winner>
       <by>
         <wickets>4</wickets>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>SP Narine</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Royal Challengers Bangalore</team>
+      <team>Kolkata Knight Riders</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Kolkata Knight Riders</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>SP Narine</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Kolkata</city>
     <umpires>
-      <umpire>C Shamshuddin</umpire>
       <umpire>A Deshmukh</umpire>
+      <umpire>C Shamshuddin</umpire>
     </umpires>
+    <venue>Eden Gardens</venue>
   </info>
   <innings>
     <inning>

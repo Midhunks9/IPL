@@ -3,39 +3,39 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2019-04-26</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
-    <venue>Eden Gardens</venue>
+    <city>Kolkata</city>
     <competition>IPL</competition>
     <dates>
       <date>2019-04-25</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Kolkata Knight Riders</team>
-      <team>Rajasthan Royals</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Rajasthan Royals</winner>
       <by>
         <wickets>3</wickets>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>VR Aaron</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Kolkata Knight Riders</team>
+      <team>Rajasthan Royals</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Rajasthan Royals</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>VR Aaron</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Kolkata</city>
     <umpires>
       <umpire>AY Dandekar</umpire>
       <umpire>IJ Gould</umpire>
     </umpires>
+    <venue>Eden Gardens</venue>
   </info>
   <innings>
     <inning>

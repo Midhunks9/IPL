@@ -3,39 +3,39 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2019-04-14</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
-    <venue>M.Chinnaswamy Stadium</venue>
+    <city>Bengaluru</city>
     <competition>IPL</competition>
     <dates>
       <date>2019-03-28</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Royal Challengers Bangalore</team>
-      <team>Mumbai Indians</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Mumbai Indians</winner>
       <by>
         <runs>6</runs>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>JJ Bumrah</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Mumbai Indians</team>
+      <team>Royal Challengers Bangalore</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Royal Challengers Bangalore</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>JJ Bumrah</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Bengaluru</city>
     <umpires>
       <umpire>CK Nandan</umpire>
       <umpire>S Ravi</umpire>
     </umpires>
+    <venue>M.Chinnaswamy Stadium</venue>
   </info>
   <innings>
     <inning>

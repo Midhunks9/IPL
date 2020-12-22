@@ -6,36 +6,36 @@
     <revision>1</revision>
   </meta>
   <info>
-    <venue>MA Chidambaram Stadium, Chepauk</venue>
+    <city>Chennai</city>
     <competition>IPL</competition>
     <dates>
       <date>2019-04-23</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Chennai Super Kings</team>
-      <team>Sunrisers Hyderabad</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Chennai Super Kings</winner>
       <by>
         <wickets>6</wickets>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>SR Watson</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Sunrisers Hyderabad</team>
+      <team>Chennai Super Kings</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Chennai Super Kings</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>SR Watson</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Chennai</city>
     <umpires>
-      <umpire>NJ Llong</umpire>
       <umpire>AK Chaudhary</umpire>
+      <umpire>NJ Llong</umpire>
     </umpires>
+    <venue>MA Chidambaram Stadium</venue>
   </info>
   <innings>
     <inning>

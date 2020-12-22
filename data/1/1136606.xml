@@ -6,36 +6,36 @@
     <revision>1</revision>
   </meta>
   <info>
-    <venue>Maharashtra Cricket Association Stadium</venue>
+    <city>Pune</city>
     <competition>IPL</competition>
     <dates>
       <date>2018-05-13</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Chennai Super Kings</team>
-      <team>Sunrisers Hyderabad</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Chennai Super Kings</winner>
       <by>
         <wickets>8</wickets>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>AT Rayudu</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Sunrisers Hyderabad</team>
+      <team>Chennai Super Kings</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Chennai Super Kings</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>AT Rayudu</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Pune</city>
     <umpires>
       <umpire>M Erasmus</umpire>
       <umpire>YC Barde</umpire>
     </umpires>
+    <venue>Maharashtra Cricket Association Stadium</venue>
   </info>
   <innings>
     <inning>

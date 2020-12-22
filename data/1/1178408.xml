@@ -3,39 +3,39 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2019-04-17</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
-    <venue>Rajiv Gandhi International Stadium, Uppal</venue>
+    <city>Hyderabad</city>
     <competition>IPL</competition>
     <dates>
       <date>2019-04-17</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Sunrisers Hyderabad</team>
-      <team>Chennai Super Kings</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Sunrisers Hyderabad</winner>
       <by>
         <wickets>6</wickets>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>DA Warner</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Chennai Super Kings</team>
+      <team>Sunrisers Hyderabad</team>
+    </teams>
     <toss>
       <decision>bat</decision>
       <winner>Chennai Super Kings</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>DA Warner</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Hyderabad</city>
     <umpires>
-      <umpire>UV Gandhe</umpire>
       <umpire>IJ Gould</umpire>
+      <umpire>UV Gandhe</umpire>
     </umpires>
+    <venue>Rajiv Gandhi International Stadium</venue>
   </info>
   <innings>
     <inning>

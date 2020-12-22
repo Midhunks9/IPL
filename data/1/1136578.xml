@@ -6,16 +6,13 @@
     <revision>1</revision>
   </meta>
   <info>
-    <venue>Eden Gardens</venue>
+    <city>Kolkata</city>
     <competition>IPL</competition>
     <dates>
       <date>2018-04-21</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Kolkata Knight Riders</team>
-      <team>Kings XI Punjab</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Kings XI Punjab</winner>
       <by>
@@ -23,20 +20,23 @@
       </by>
       <method>D/L</method>
     </outcome>
-    <toss>
-      <decision>field</decision>
-      <winner>Kings XI Punjab</winner>
-    </toss>
-    <match_type>T20</match_type>
     <overs>20</overs>
     <player_of_match>
       <player_of_match>KL Rahul</player_of_match>
     </player_of_match>
-    <city>Kolkata</city>
+    <teams>
+      <team>Kolkata Knight Riders</team>
+      <team>Kings XI Punjab</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Kings XI Punjab</winner>
+    </toss>
     <umpires>
-      <umpire>C Shamshuddin</umpire>
       <umpire>A Deshmukh</umpire>
+      <umpire>C Shamshuddin</umpire>
     </umpires>
+    <venue>Eden Gardens</venue>
   </info>
   <innings>
     <inning>
@@ -1977,6 +1977,7 @@
             <role>
               <role>
                 <in>N Rana</in>
+                <out>AD Russell</out>
                 <reason>injury</reason>
                 <role>bowler</role>
               </role>

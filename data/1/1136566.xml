@@ -6,16 +6,13 @@
     <revision>1</revision>
   </meta>
   <info>
-    <venue>Sawai Mansingh Stadium</venue>
+    <city>Jaipur</city>
     <competition>IPL</competition>
     <dates>
       <date>2018-04-11</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Rajasthan Royals</team>
-      <team>Delhi Daredevils</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Rajasthan Royals</winner>
       <by>
@@ -23,20 +20,23 @@
       </by>
       <method>D/L</method>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>SV Samson</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Rajasthan Royals</team>
+      <team>Delhi Daredevils</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Delhi Daredevils</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>SV Samson</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Jaipur</city>
     <umpires>
       <umpire>KN Ananthapadmanabhan</umpire>
       <umpire>Nitin Menon</umpire>
     </umpires>
+    <venue>Sawai Mansingh Stadium</venue>
   </info>
   <innings>
     <inning>

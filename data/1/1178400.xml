@@ -3,39 +3,39 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2019-04-16</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
-    <venue>Sawai Mansingh Stadium</venue>
+    <city>Jaipur</city>
     <competition>IPL</competition>
     <dates>
       <date>2019-04-11</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Rajasthan Royals</team>
-      <team>Chennai Super Kings</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Chennai Super Kings</winner>
       <by>
         <wickets>4</wickets>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>MS Dhoni</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Rajasthan Royals</team>
+      <team>Chennai Super Kings</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Chennai Super Kings</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>MS Dhoni</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Jaipur</city>
     <umpires>
-      <umpire>UV Gandhe</umpire>
       <umpire>BNJ Oxenford</umpire>
+      <umpire>UV Gandhe</umpire>
     </umpires>
+    <venue>Sawai Mansingh Stadium</venue>
   </info>
   <innings>
     <inning>

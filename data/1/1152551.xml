@@ -3,39 +3,39 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2019-04-22</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
-    <venue>Perth Stadium</venue>
+    <city>Perth</city>
     <competition>Big Bash League</competition>
     <dates>
       <date>2019-01-24</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Perth Scorchers</team>
-      <team>Sydney Thunder</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Sydney Thunder</winner>
       <by>
         <wickets>6</wickets>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>CJ Ferguson</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Perth Scorchers</team>
+      <team>Sydney Thunder</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Sydney Thunder</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>CJ Ferguson</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Perth</city>
     <umpires>
       <umpire>JD Ward</umpire>
       <umpire>SD Fry</umpire>
     </umpires>
+    <venue>Perth Stadium</venue>
   </info>
   <innings>
     <inning>
@@ -1742,6 +1742,7 @@
           <runs>
             <extras>0</extras>
             <total>4</total>
+            <non_boundary>1</non_boundary>
             <batsman>4</batsman>
           </runs>
           <batsman>M Gilkes</batsman>

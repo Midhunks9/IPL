@@ -6,36 +6,36 @@
     <revision>1</revision>
   </meta>
   <info>
-    <venue>Wankhede Stadium</venue>
+    <city>Mumbai</city>
     <competition>IPL</competition>
     <dates>
       <date>2018-04-17</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Mumbai Indians</team>
-      <team>Royal Challengers Bangalore</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Mumbai Indians</winner>
       <by>
         <runs>46</runs>
       </by>
     </outcome>
-    <toss>
-      <decision>field</decision>
-      <winner>Royal Challengers Bangalore</winner>
-    </toss>
-    <match_type>T20</match_type>
     <overs>20</overs>
     <player_of_match>
       <player_of_match>RG Sharma</player_of_match>
     </player_of_match>
-    <city>Mumbai</city>
+    <teams>
+      <team>Mumbai Indians</team>
+      <team>Royal Challengers Bangalore</team>
+    </teams>
+    <toss>
+      <decision>field</decision>
+      <winner>Royal Challengers Bangalore</winner>
+    </toss>
     <umpires>
-      <umpire>RJ Tucker</umpire>
       <umpire>Nitin Menon</umpire>
+      <umpire>RJ Tucker</umpire>
     </umpires>
+    <venue>Wankhede Stadium</venue>
   </info>
   <innings>
     <inning>

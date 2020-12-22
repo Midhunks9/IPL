@@ -3,39 +3,39 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2019-04-16</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
-    <venue>Sawai Mansingh Stadium</venue>
+    <city>Jaipur</city>
     <competition>IPL</competition>
     <dates>
       <date>2019-04-07</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Rajasthan Royals</team>
-      <team>Kolkata Knight Riders</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Kolkata Knight Riders</winner>
       <by>
         <wickets>8</wickets>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>HF Gurney</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Rajasthan Royals</team>
+      <team>Kolkata Knight Riders</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Kolkata Knight Riders</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>HF Gurney</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Jaipur</city>
     <umpires>
-      <umpire>CB Gaffaney</umpire>
       <umpire>AK Chaudhary</umpire>
+      <umpire>CB Gaffaney</umpire>
     </umpires>
+    <venue>Sawai Mansingh Stadium</venue>
   </info>
   <innings>
     <inning>

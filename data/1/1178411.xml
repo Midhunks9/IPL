@@ -3,39 +3,39 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2019-04-21</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
-    <venue>Sawai Mansingh Stadium</venue>
+    <city>Jaipur</city>
     <competition>IPL</competition>
     <dates>
       <date>2019-04-20</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Rajasthan Royals</team>
-      <team>Mumbai Indians</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Rajasthan Royals</winner>
       <by>
         <wickets>5</wickets>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>SPD Smith</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Mumbai Indians</team>
+      <team>Rajasthan Royals</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Rajasthan Royals</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>SPD Smith</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Jaipur</city>
     <umpires>
-      <umpire>YC Barde</umpire>
       <umpire>S Ravi</umpire>
+      <umpire>YC Barde</umpire>
     </umpires>
+    <venue>Sawai Mansingh Stadium</venue>
   </info>
   <innings>
     <inning>

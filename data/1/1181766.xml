@@ -6,36 +6,36 @@
     <revision>1</revision>
   </meta>
   <info>
-    <venue>Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium</venue>
+    <city>Visakhapatnam</city>
     <competition>IPL</competition>
     <dates>
       <date>2019-05-08</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Delhi Capitals</team>
-      <team>Sunrisers Hyderabad</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Delhi Capitals</winner>
       <by>
         <wickets>2</wickets>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>RR Pant</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Sunrisers Hyderabad</team>
+      <team>Delhi Capitals</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Delhi Capitals</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>RR Pant</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Visakhapatnam</city>
     <umpires>
       <umpire>BNJ Oxenford</umpire>
       <umpire>S Ravi</umpire>
     </umpires>
+    <venue>Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium</venue>
   </info>
   <innings>
     <inning>
@@ -2819,10 +2819,7 @@
           <wickets>
             <wicket>
               <player_out>AR Patel</player_out>
-              <fielders>
-                <fielder>WP Saha</fielder>
-              </fielders>
-              <kind>caught</kind>
+              <kind>lbw</kind>
             </wicket>
           </wickets>
         </delivery>

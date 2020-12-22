@@ -3,39 +3,39 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2019-04-23</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
-    <venue>M.Chinnaswamy Stadium</venue>
+    <city>Bengaluru</city>
     <competition>IPL</competition>
     <dates>
       <date>2019-04-21</date>
     </dates>
     <gender>male</gender>
-    <teams>
-      <team>Royal Challengers Bangalore</team>
-      <team>Chennai Super Kings</team>
-    </teams>
+    <match_type>T20</match_type>
     <outcome>
       <winner>Royal Challengers Bangalore</winner>
       <by>
         <runs>1</runs>
       </by>
     </outcome>
+    <overs>20</overs>
+    <player_of_match>
+      <player_of_match>PA Patel</player_of_match>
+    </player_of_match>
+    <teams>
+      <team>Royal Challengers Bangalore</team>
+      <team>Chennai Super Kings</team>
+    </teams>
     <toss>
       <decision>field</decision>
       <winner>Chennai Super Kings</winner>
     </toss>
-    <player_of_match>
-      <player_of_match>PA Patel</player_of_match>
-    </player_of_match>
-    <match_type>T20</match_type>
-    <overs>20</overs>
-    <city>Bengaluru</city>
     <umpires>
       <umpire>RJ Tucker</umpire>
       <umpire>VA Kulkarni</umpire>
     </umpires>
+    <venue>M.Chinnaswamy Stadium</venue>
   </info>
   <innings>
     <inning>
