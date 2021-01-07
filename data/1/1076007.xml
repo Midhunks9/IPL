@@ -3,16 +3,16 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2017-05-05</created>
-    <revision>2</revision>
+    <revision>3</revision>
   </meta>
   <info>
+    <city>Sharjah</city>
     <competition>Pakistan Super League</competition>
     <dates>
       <date>2017-03-01</date>
     </dates>
     <gender>male</gender>
     <match_type>T20</match_type>
-    <neutral_venue>1</neutral_venue>
     <outcome>
       <by>
         <runs>44</runs>
@@ -24,8 +24,8 @@
       <player_of_match>Imad Wasim</player_of_match>
     </player_of_match>
     <teams>
-      <team>Islamabad United</team>
       <team>Karachi Kings</team>
+      <team>Islamabad United</team>
     </teams>
     <toss>
       <decision>field</decision>
@@ -1264,10 +1264,6 @@
           </runs>
           <wickets>
             <wicket>
-              <fielders>
-                <fielder>Asif Ali</fielder>
-                <fielder>BJ Haddin</fielder>
-              </fielders>
               <kind>run out</kind>
               <player_out>Shoaib Malik</player_out>
             </wicket>

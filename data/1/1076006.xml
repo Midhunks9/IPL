@@ -3,16 +3,16 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2017-05-06</created>
-    <revision>2</revision>
+    <revision>3</revision>
   </meta>
   <info>
+    <city>Sharjah</city>
     <competition>Pakistan Super League</competition>
     <dates>
       <date>2017-02-28</date>
     </dates>
     <gender>male</gender>
     <match_type>T20</match_type>
-    <neutral_venue>1</neutral_venue>
     <outcome>
       <by>
         <runs>1</runs>
@@ -24,8 +24,8 @@
       <player_of_match>Ahmed Shehzad</player_of_match>
     </player_of_match>
     <teams>
-      <team>Peshawar Zalmi</team>
       <team>Quetta Gladiators</team>
+      <team>Peshawar Zalmi</team>
     </teams>
     <toss>
       <decision>field</decision>
@@ -1495,10 +1495,6 @@
           </runs>
           <wickets>
             <wicket>
-              <fielders>
-                <fielder>DJ Malan</fielder>
-                <fielder>Hasan Ali</fielder>
-              </fielders>
               <kind>run out</kind>
               <player_out>Anwar Ali</player_out>
             </wicket>
@@ -1517,9 +1513,6 @@
           </runs>
           <wickets>
             <wicket>
-              <fielders>
-                <fielder>Hasan Ali</fielder>
-              </fielders>
               <kind>run out</kind>
               <player_out>Sarfraz Ahmed</player_out>
             </wicket>
@@ -1766,9 +1759,6 @@
           </runs>
           <wickets>
             <wicket>
-              <fielders>
-                <fielder>Ahmed Shehzad</fielder>
-              </fielders>
               <kind>run out</kind>
               <player_out>MN Samuels</player_out>
             </wicket>
@@ -3236,9 +3226,6 @@
           </runs>
           <wickets>
             <wicket>
-              <fielders>
-                <fielder>Sarfraz Ahmed</fielder>
-              </fielders>
               <kind>run out</kind>
               <player_out>Wahab Riaz</player_out>
             </wicket>
@@ -3257,9 +3244,6 @@
           </runs>
           <wickets>
             <wicket>
-              <fielders>
-                <fielder>Sarfraz Ahmed</fielder>
-              </fielders>
               <kind>run out</kind>
               <player_out>Hasan Ali</player_out>
             </wicket>

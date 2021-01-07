@@ -3,16 +3,16 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2017-05-05</created>
-    <revision>2</revision>
+    <revision>3</revision>
   </meta>
   <info>
+    <city>Dubai</city>
     <competition>Pakistan Super League</competition>
     <dates>
       <date>2017-03-03</date>
     </dates>
     <gender>male</gender>
     <match_type>T20</match_type>
-    <neutral_venue>1</neutral_venue>
     <outcome>
       <by>
         <runs>24</runs>
@@ -24,8 +24,8 @@
       <player_of_match>Kamran Akmal</player_of_match>
     </player_of_match>
     <teams>
-      <team>Karachi Kings</team>
       <team>Peshawar Zalmi</team>
+      <team>Karachi Kings</team>
     </teams>
     <toss>
       <decision>field</decision>
@@ -1453,10 +1453,6 @@
           </runs>
           <wickets>
             <wicket>
-              <fielders>
-                <fielder>RS Bopara</fielder>
-                <fielder>Mohammad Amir</fielder>
-              </fielders>
               <kind>run out</kind>
               <player_out>Kamran Akmal</player_out>
             </wicket>
