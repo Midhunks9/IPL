@@ -3,15 +3,16 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2016-02-24</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
-    <city>Mirpur</city>
+    <city>Dhaka</city>
     <dates>
       <date>2016-02-24</date>
     </dates>
     <gender>male</gender>
     <match_type>T20</match_type>
+    <match_type_number>509</match_type_number>
     <outcome>
       <by>
         <runs>45</runs>
@@ -23,8 +24,8 @@
       <player_of_match>RG Sharma</player_of_match>
     </player_of_match>
     <teams>
-      <team>Bangladesh</team>
       <team>India</team>
+      <team>Bangladesh</team>
     </teams>
     <toss>
       <decision>field</decision>
@@ -235,10 +236,13 @@
           <ball>4</ball>
           <batsman>V Kohli</batsman>
           <bowler>Taskin Ahmed</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
           <non_striker>RG Sharma</non_striker>
           <runs>
-            <batsman>1</batsman>
-            <extras>0</extras>
+            <batsman>0</batsman>
+            <extras>1</extras>
             <total>1</total>
           </runs>
         </delivery>
@@ -2553,10 +2557,6 @@
           </runs>
           <wickets>
             <wicket>
-              <fielders>
-                <fielder>RG Sharma</fielder>
-                <fielder>MS Dhoni</fielder>
-              </fielders>
               <kind>run out</kind>
               <player_out>Shakib Al Hasan</player_out>
             </wicket>
