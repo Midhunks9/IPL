@@ -3,7 +3,7 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2020-10-09</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Stirling</city>
@@ -507,6 +507,16 @@
           <batsman>B de Leede</batsman>
           <bowler>PA Chatterji</bowler>
           <non_striker>CC van Slobbe</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>PA Chatterji</in>
+                <out>K McGill</out>
+                <reason>unknown</reason>
+                <role>bowler</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

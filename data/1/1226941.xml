@@ -3,7 +3,7 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2020-11-16</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Sydney</city>
@@ -23,6 +23,12 @@
     <player_of_match>
       <player_of_match>TJ McPharlin</player_of_match>
     </player_of_match>
+    <supersubs>
+      <supersub>
+        <team>Sydney Sixers</team>
+        <player>M Darke</player>
+      </supersub>
+    </supersubs>
     <teams>
       <team>Adelaide Strikers</team>
       <team>Sydney Sixers</team>
@@ -1626,6 +1632,16 @@
           <batsman>AJ Healy</batsman>
           <bowler>ML Schutt</bowler>
           <non_striker>EA Perry</non_striker>
+          <replacements>
+            <match>
+              <match>
+                <in>M Darke</in>
+                <out>A Gardner</out>
+                <reason>supersub</reason>
+                <team>Sydney Sixers</team>
+              </match>
+            </match>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>

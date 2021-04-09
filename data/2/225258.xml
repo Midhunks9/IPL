@@ -3,7 +3,7 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2020-11-28</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>London</city>
@@ -4711,6 +4711,16 @@
           <batsman>Younis Khan</batsman>
           <bowler>SI Mahmood</bowler>
           <non_striker>Imran Farhat</non_striker>
+          <replacements>
+            <role>
+              <role>
+                <in>Younis Khan</in>
+                <out>Mohammad Hafeez</out>
+                <reason>injury</reason>
+                <role>batter</role>
+              </role>
+            </role>
+          </replacements>
           <runs>
             <batsman>0</batsman>
             <extras>0</extras>
