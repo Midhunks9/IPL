@@ -3,7 +3,7 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2012-07-16</created>
-    <revision>2</revision>
+    <revision>3</revision>
   </meta>
   <info>
     <city>Auckland</city>
@@ -12,6 +12,7 @@
     </dates>
     <gender>male</gender>
     <match_type>T20</match_type>
+    <match_type_number>78</match_type_number>
     <outcome>
       <eliminator>West Indies</eliminator>
       <result>tie</result>
@@ -32,7 +33,7 @@
       <umpire>BF Bowden</umpire>
       <umpire>AL Hill</umpire>
     </umpires>
-    <venue>Eden Park</venue>
+    <venue>Eden Park, Auckland</venue>
   </info>
   <innings>
     <inning>
@@ -3136,9 +3137,6 @@
           </runs>
           <wickets>
             <wicket>
-              <fielders>
-                <fielder>BB McCullum</fielder>
-              </fielders>
               <kind>run out</kind>
               <player_out>FH Edwards</player_out>
             </wicket>
@@ -3199,10 +3197,6 @@
           </runs>
           <wickets>
             <wicket>
-              <fielders>
-                <fielder>JEC Franklin</fielder>
-                <fielder>DL Vettori</fielder>
-              </fielders>
               <kind>run out</kind>
               <player_out>XM Marshall</player_out>
             </wicket>
@@ -3299,6 +3293,9 @@
           </runs>
           <wickets>
             <wicket>
+              <fielders>
+                <fielder>XM Marshall</fielder>
+              </fielders>
               <kind>caught</kind>
               <player_out>JDP Oram</player_out>
             </wicket>
