@@ -3,7 +3,7 @@
   <meta>
     <data_version>0.9</data_version>
     <created>2017-05-08</created>
-    <revision>1</revision>
+    <revision>2</revision>
   </meta>
   <info>
     <city>Hyderabad</city>
@@ -2540,10 +2540,13 @@
           <ball>2</ball>
           <batsman>S Dhawan</batsman>
           <bowler>JJ Bumrah</bowler>
+          <extras>
+            <legbyes>1</legbyes>
+          </extras>
           <non_striker>Yuvraj Singh</non_striker>
           <runs>
-            <batsman>1</batsman>
-            <extras>0</extras>
+            <batsman>0</batsman>
+            <extras>1</extras>
             <total>1</total>
           </runs>
         </delivery>
@@ -2687,13 +2690,10 @@
           <ball>1</ball>
           <batsman>S Dhawan</batsman>
           <bowler>SL Malinga</bowler>
-          <extras>
-            <legbyes>1</legbyes>
-          </extras>
           <non_striker>Yuvraj Singh</non_striker>
           <runs>
-            <batsman>0</batsman>
-            <extras>1</extras>
+            <batsman>1</batsman>
+            <extras>0</extras>
             <total>1</total>
           </runs>
         </delivery>
